@@ -21,7 +21,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Cryptam](http://www.cryptam.com/) | Analyze suspicious office documents to detect embedded executables or exploits. |
 | [OPSWAT Metadefender](https://metadefender.opswat.com/?lang=en) | OPSWAT's deep endpoint forensic analysis for malware using several methods. |
 | [VxCube](http://vxcube.com/) | Dr.Web's analysis tool for various advanced, new-born, mutated malicious codes. |
-| [Valkyrie Comodo](https://valkyrie.comodo.com) | here |
-| [Pikker](https://sandbox.pikker.ee) | here |
-| [SecondWrite](https://webportal.secondwrite.com/analysis/) | here |
-| [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | here |
+| [Valkyrie Comodo](https://valkyrie.comodo.com) | File verdict system. Different from traditional signature based malware detection techniques Valkyrie conducts several analysis using run-time behavior and hundreds of features from a file and based on analysis results can warn users against malware undetected by classic Anti-Virus products. |
+| [Pikker](https://sandbox.pikker.ee) | Free public instance of Cuckoo sandbox |
+| [SecondWrite](https://webportal.secondwrite.com/analysis/) | SecondWrite brings deep learning and forced code-execution to the battle against advanced malware. Our dynamic analysis malware detector uses patented technology to find, execute and characterize hidden code paths that other malware detectors miss. |
+| [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. |
