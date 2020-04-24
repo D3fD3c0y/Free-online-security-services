@@ -21,4 +21,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Cryptam](http://www.cryptam.com/) | Analyze suspicious office documents to detect embedded executables or exploits. |
 | [OPSWAT Metadefender](https://metadefender.opswat.com/?lang=en) | OPSWAT's deep endpoint forensic analysis for malware using several methods. |
 | [VxCube](http://vxcube.com/) | Dr.Web's analysis tool for various advanced, new-born, mutated malicious codes. |
-
+| [Valkyrie Comodo](https://valkyrie.comodo.com) | here |
+| [Pikker](https://sandbox.pikker.ee) | here |
+| [SecondWrite](https://webportal.secondwrite.com/analysis/) | here |
+! [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | here |
