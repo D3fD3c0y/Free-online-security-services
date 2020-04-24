@@ -3,6 +3,7 @@
 This is a list of free online tools that can be used for Blue team analyst to investgate, analyze and collect information for different type of alerts.
 
 Malware Analysis
+
 | Link | Description|
 |------|------------|
 | [VirusTotal](https://www.virustotal.com) | Google's public platform that compare samples analysis from multiple AV vendors and provide basic Threat Intelligence and metadata related to the samples. Note that the analysis are base on signature detection for most AV vendors.|
