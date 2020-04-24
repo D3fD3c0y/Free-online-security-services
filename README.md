@@ -24,4 +24,4 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Valkyrie Comodo](https://valkyrie.comodo.com) | here |
 | [Pikker](https://sandbox.pikker.ee) | here |
 | [SecondWrite](https://webportal.secondwrite.com/analysis/) | here |
-! [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | here |
+| [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | here |
