@@ -112,7 +112,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [[MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. |
+| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. |
 | [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. |
 | [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. |
 | [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. |
