@@ -174,20 +174,10 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [Hybrid-Analysis]() | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
-| [AnyRun]() | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
-| [MalShare]() | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
-| [Cape]() | Context's cuckoo sandbox. Also perform sample download from URL. |
-
-
-
-
-
-## Download Malwares Samples
-
-| Link | Description|
-|------|------------|
-| [
+| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
+| [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
+| [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
+| [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
 
 
 
