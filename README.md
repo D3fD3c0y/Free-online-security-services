@@ -67,7 +67,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 
-## URL/IP/Domain analysis
+## Threat Intelligence
 
 
 | Link | Description|
@@ -83,3 +83,128 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Onyphe](https://www.onyphe.io/) | A search engine for open-source and cyber threat intelligence data. |
 | [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. |
+
+
+
+
+## Phishing
+
+| Link | Description|
+|------|------------|
+| [[MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. |
+| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. |
+| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. |
+| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. |
+| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. |
+
+
+
+
+
+## Vulnerabilities
+
+| Link | Description|
+|------|------------|
+| [VulDB](https://vuldb.com/) | Vulnarability database worldwide with more than 111 000 entries available. |
+| [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. |
+
+
+
+
+
+## Reconnaissance
+
+| Link | Description|
+|------|------------|
+| [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
+| [BuiltWith](https://builtwith.com/) | Website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet. |
+
+
+
+
+
+## Reconnaissance
+
+| Link | Description|
+|------|------------|
+| [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. |
+
+
+
+
+
+
+## Social Media
+
+| Link | Description|
+|------|------------|
+| [Namechk](https://namechk.com/) | Free username and domain search tool. We're the fastest and most efficient way for you to search for your desired username across hundreds of social networks and domain extension - all at once. |
+| [Checkusernames](https://checkusernames.com/) | Check the use of your brand or username on 160 Social Networks. |
+| [Knowem](https://knowem.com/) | Allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites. |
+| [BeenVerified](https://www.beenverified.com/) | Provide you with access to public information that was formerly only available to big companies and people with deep pockets in a way that is easy, affordable, and fast. For U.S only. |
+
+
+
+
+
+
+## Network
+
+| Link | Description|
+|------|------------|
+| [PacketTotal]() | Simple, free, high-quality PCAP analysis. |
+| [UserAgentString]() | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. |
+
+
+
+
+
+## Referencing
+
+| Link | Description|
+|------|------------|
+| [OSINT Framework]() | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
+| [Mitre Att&ck Enterprise Interactive Framework]() | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. |
+
+
+
+
+
+## Download Malwares Samples
+
+| Link | Description|
+|------|------------|
+| [Hybrid-Analysis]() | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
+| [AnyRun]() | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
+| [MalShare]() | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
+| [Cape]() | Context's cuckoo sandbox. Also perform sample download from URL. |
+
+
+
+
+
+## Download Malwares Samples
+
+| Link | Description|
+|------|------------|
+| [
+
+
+
+
+
+## Windows built-in feature to use for offensive
+
+| Link | Description|
+|------|------------|
+| [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) |	Document every binary, script, and library that can be used for Living Off The Land techniques. |
+
+
+
+
+
+## Linux built-in feature to use for offensive
+
+| Link | Description|
+|------|------------|
+| [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. |
