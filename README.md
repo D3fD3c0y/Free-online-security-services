@@ -4,7 +4,20 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 # Table of content
--[Malware Analysis](#Malware-Analysis)
+[Malware Analysis](#Malware-Analysis)
+[URL/IP/Domain analysis](#URL--IP--Domain-analysis)
+[Threat Intelligence](#Threat-Intelligence)
+[Phishing](#Phishing)
+[Vulnerabilities](#Vulnerabilities)
+[Reconnaissance](#Reconnaissance)
+[Encoder/Decoder](#Encoder--Decoder)
+[Social Media](#Social-Media)
+[Network](#Network)
+[Referencing](#Referencing)
+[Download Malwares Samples](#Download-Malwares-Samples)
+[Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
+[Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
+
 
 
 
