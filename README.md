@@ -35,7 +35,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| VirusTotal | Compare URL categorization from multiple URL filtering solutions vendors. |
+| [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
 | URLQuery | Detecting and analyzing web-based malware.  It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. |
 | DomainBigData | Biog database of domains and whois records. |
 | MultiRBL | IP check for sending Mailservers. |
