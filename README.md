@@ -2,6 +2,14 @@
 
 This is a list of free online tools that can be used for Blue team analyst to investgate, analyze and collect information for different type of alerts.
 
+
+# Table of content
+-[Malware Analysis](#Malware-Analysis)
+
+
+
+
+
 ## Malware Analysis
 
 | Link | Description|
