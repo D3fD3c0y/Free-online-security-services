@@ -30,34 +30,56 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 
+
 ## URL/IP/Domain analysis
 
 
 | Link | Description|
 |------|------------|
 | [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
-| URLQuery | Detecting and analyzing web-based malware.  It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. |
-| DomainBigData | Biog database of domains and whois records. |
-| MultiRBL | IP check for sending Mailservers. |
-| Robtex | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. |
-| SSL Blacklist | List of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. |
-| URLscan.io | Analyse websites and the resources they request. it will let you take a look at the individual resources that are requested when a site is visited. |
-| DNStrail | World's largest repository of historical DNS data. |
-| URLVoid | Analyze a website through multiple blacklist engines and online reputation tools. |
-| IPVoid | IP address tools to discover details about IP addresses. |
-| Shodan | The world's first search engine for Internet-connected devices. |
-| ThreatCrowd | Domain, IP. Email or Organization search engine for threats. |
-| ThreatMiner | Free analysis from data collection and provide intelligence analysis. |
-| RegistryDB | Database to find domain information from domain name, IP address, owner name or email. |
-| DNSDumpster | Domain research tool that can discover hosts related to a domain. |
-| HackerTarget | Domain research tool that can discover hosts related to a domain. |
-| DNSlytics | Find out everything about a domain name, IP address or provider. |
-| Google Safe Browsing | Check site status in Google Safe Browsing database. |
-| ScreenshotMachine | Online tool that creates screenshots of websites in a safe way. |
-| AbuseIPDB | Provide a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online. |
-| Onyphe | Search engine for open-source and cyber threat intelligence data collected by crawling various sources available on the Internet or by listening to Internet background noise. ONYPHE does correlate this information with data gathered by performing active Internet scanning for connected devices. |
-| Censys | Uses Internet scan data to give organizations the visibility they need to defend against attacks and improve their overall security hygiene. |
-| ThingFul | A search engine for Internet of Things. |
-| ZoomEye | Cyberspace Search Engine recording information of devices, websites, services and components, etc. |
-| BinaryEdge | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. |
-| Ipinfo.io | The most reliable, accurate, and in-depth source of IP address data available anywhere. |
+| [URLQuery](http://urlquery.net/) | Detecting and analyzing web-based malware.  It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. |
+| [DomainBigData](https://domainbigdata.com/) | Biog database of domains and whois records. |
+| [MultiRBL](http://multirbl.valli.org/) | IP check for sending Mailservers. |
+| [Robtex](https://www.robtex.com/) | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. |
+| [SSL Blacklist](https://sslbl.abuse.ch/blacklist/) | List of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. |
+|[URLscan.io](https://urlscan.io/) | Analyse websites and the resources they request. it will let you take a look at the individual resources that are requested when a site is visited. |
+| [DNStrail](https://securitytrails.com/dns-trails) | World's largest repository of historical DNS data. |
+| [URLVoid](https://www.urlvoid.com/) | Analyze a website through multiple blacklist engines and online reputation tools. |
+| [IPVoid](http://www.ipvoid.com/) | IP address tools to discover details about IP addresses. |
+| [Shodan](https://www.shodan.io/) | The world's first search engine for Internet-connected devices. |
+| [ThreatCrowd](https://www.threatcrowd.org/) | Domain, IP. Email or Organization search engine for threats. |
+| [ThreatMiner](https://www.threatminer.org/) | Free analysis from data collection and provide intelligence analysis. |
+| [RegistryDB](https://registrydb.com/) | Database to find domain information from domain name, IP address, owner name or email. |
+| [DNSDumpster](https://dnsdumpster.com/) | Domain research tool that can discover hosts related to a domain. |
+| [HackerTarget](https://hackertarget.com/ip-tools/) | Domain research tool that can discover hosts related to a domain. |
+| [DNSlytics](https://dnslytics.com/) | Find out everything about a domain name, IP address or provider. |
+| [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search?hl=en) | Check site status in Google Safe Browsing database. |
+| [ScreenshotMachine](https://www.screenshotmachine.com/) | Online tool that creates screenshots of websites in a safe way. |
+| [AbuseIPDB](https://www.abuseipdb.com/) | Provide a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online. |
+| [Onyphe](https://www.onyphe.io/) | Search engine for open-source and cyber threat intelligence data collected by crawling various sources available on the Internet or by listening to Internet background noise. ONYPHE does correlate this information with data gathered by performing active Internet scanning for connected devices. |
+| [Censys](https://censys.io/) | Uses Internet scan data to give organizations the visibility they need to defend against attacks and improve their overall security hygiene. |
+| [ThingFul](https://www.thingful.net/) | A search engine for Internet of Things. |
+| [ZoomEye](https://www.zoomeye.org/) | Cyberspace Search Engine recording information of devices, websites, services and components, etc. |
+| [BinaryEdge](https://app.binaryedge.io/login) | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. |
+| [Ipinfo.io](https://ipinfo.io/account/login) | The most reliable, accurate, and in-depth source of IP address data available anywhere. |
+
+
+
+
+
+## URL/IP/Domain analysis
+
+
+| Link | Description|
+|------|------------|
+| [C1fApp](https://www.c1fapp.com/cifapp/login/) | Open source Cyber Intelligence threat feeds. |
+| [RiskIQ Community Edition](https://community.riskiq.com/login) | Free access to comprehensive Internet data to hunt digital threats against their organization, defend their digital footprint and reduce their attack surface across web, mobile, and social channels. |
+| [AlienVault Open Threat Exchange](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community |
+| [CriticalStack Intel Feed](https://intel.criticalstack.com/user/login) | Free threat Intelligence, parsed for the Bro network security monitoring platform. |
+| [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. |
+| [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. |
+| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. |
+| [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. |
+| [Onyphe](https://www.onyphe.io/) | A search engine for open-source and cyber threat intelligence data. |
+| [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. |
+| [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. |
