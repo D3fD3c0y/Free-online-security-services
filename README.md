@@ -52,7 +52,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 
-## URL/IP/Domain analysis
+## URL-IP-Domain-analysis
 
 
 | Link | Description|
@@ -144,7 +144,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 
-## Reconnaissance
+## Encoder-Decoder
 
 | Link | Description|
 |------|------------|
