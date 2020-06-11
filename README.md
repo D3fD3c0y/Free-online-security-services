@@ -47,7 +47,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [SecondWrite](https://webportal.secondwrite.com/analysis/) | SecondWrite brings deep learning and forced code-execution to the battle against advanced malware. Our dynamic analysis malware detector uses patented technology to find, execute and characterize hidden code paths that other malware detectors miss. |
 | [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. |
 | [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. |
-
+| [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. |
 
 
 
@@ -83,7 +83,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [ZoomEye](https://www.zoomeye.org/) | Cyberspace Search Engine recording information of devices, websites, services and components, etc. |
 | [BinaryEdge](https://app.binaryedge.io/login) | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. |
 | [Ipinfo.io](https://ipinfo.io/account/login) | The most reliable, accurate, and in-depth source of IP address data available anywhere. |
-
+| [Cisco Talos](https://www.talosintelligence.com/) | The Talos IP and Domain Reputation Center is the world’s most comprehensive real-time threat detection network. |
 
 
 
