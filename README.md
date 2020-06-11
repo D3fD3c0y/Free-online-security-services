@@ -173,8 +173,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [PacketTotal]() | Simple, free, high-quality PCAP analysis. |
-| [UserAgentString]() | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. |
+| [PacketTotal](https://www.packettotal.com/) | Simple, free, high-quality PCAP analysis. |
+| [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. |
 
 
 
@@ -184,8 +184,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [OSINT Framework]() | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
-| [Mitre Att&ck Enterprise Interactive Framework]() | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. |
+| [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
+| [Mitre Att&ck Enterprise Interactive Framework](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. |
 
 
 
