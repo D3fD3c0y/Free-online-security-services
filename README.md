@@ -5,12 +5,12 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 # Table of content
 - [Malware Analysis](#Malware-Analysis)
-- [URL/IP/Domain analysis](#URL--IP--Domain-analysis)
+- [URL/IP/Domain analysis](#URL-IP-Domain-analysis)
 - [Threat Intelligence](#Threat-Intelligence)
 - [Phishing](#Phishing)
 - [Vulnerabilities](#Vulnerabilities)
 - [Reconnaissance](#Reconnaissance)
-- [Encoder/Decoder](#Encoder--Decoder)
+- [Encoder/Decoder](#Encoder-Decoder)
 - [Social Media](#Social-Media)
 - [Network](#Network)
 - [Referencing](#Referencing)
@@ -52,7 +52,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 
-## URL-IP-Domain analysis
+## URL IP Domain analysis
 
 
 | Link | Description|
@@ -144,7 +144,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 
-## Encoder-Decoder
+## Encoder Decoder
 
 | Link | Description|
 |------|------------|
