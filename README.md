@@ -48,6 +48,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. |
 | [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. |
 | [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. |
+| [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. |
+
 
 
 
@@ -104,6 +106,12 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Onyphe](https://www.onyphe.io/) | A search engine for open-source and cyber threat intelligence data. |
 | [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. |
+| [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) | Share Google Sheet file with indicator and information about ransomwares. |
+| [Fortinet threat Playbook](https://www.fortiguard.com/playbook) | Playbook viewer. |
+| [Palo ALto Unit 42 Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/) | Playbook viewer. |
+| [Cyber Threat Alliance Playbook](https://www.cyberthreatalliance.org/resources/?tab=playbooks) | Playbooks from Cyber Threat Alliance members. |
+
+
 
 
 
@@ -117,6 +125,9 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. |
 | [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. |
 | [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. |
+| [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. |
+| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. |
+
 
 
 
@@ -149,7 +160,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description|
 |------|------------|
 | [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. |
-
+| [UnCoder](https://uncoder.io/) |  online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. |
 
 
 
@@ -186,6 +197,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
 | [Mitre Att&ck Enterprise Interactive Framework](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. |
+
 
 
 
