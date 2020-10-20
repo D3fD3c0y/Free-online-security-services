@@ -127,6 +127,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. |
 | [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. |
 | [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. |
+| [DNSTwister ](https://dnstwister.report/) | The anti-phishing domain name search engine. |
+
 
 
 
