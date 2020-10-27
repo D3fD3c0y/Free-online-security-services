@@ -60,7 +60,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description|
 |------|------------|
 | [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
-| [URLQuery](http://urlquery.net/) | Detecting and analyzing web-based malware.  It provides detailed information about the activities a browser does while visiting a site and presents the information for further analysis. |
 | [DomainBigData](https://domainbigdata.com/) | Biog database of domains and whois records. |
 | [MultiRBL](http://multirbl.valli.org/) | IP check for sending Mailservers. |
 | [Robtex](https://www.robtex.com/) | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. |
