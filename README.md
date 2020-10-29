@@ -49,7 +49,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. |
 | [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. |
 | [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. |
-| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. |
+| [Polyswarm](https://polyswarm.network/scan) | Crowdsourced Malware Analysis for new and emerging threats. |
 
 
 
