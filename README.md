@@ -49,6 +49,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. |
 | [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. |
 | [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. |
+| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. |
 
 
 
@@ -212,6 +213,12 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
 | [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
 | [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
+| [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. |
+| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
+| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
+| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
+| [VirusSign](https://virussign.com/downloads.html) | Free and premium virus samples. |
+| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
 
 
 
