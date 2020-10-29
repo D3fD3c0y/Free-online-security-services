@@ -50,6 +50,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. |
 | [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. |
 | [Polyswarm](https://polyswarm.network/scan) | Crowdsourced Malware Analysis for new and emerging threats. |
+| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
 
 
 
@@ -110,6 +111,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Fortinet threat Playbook](https://www.fortiguard.com/playbook) | Playbook viewer. |
 | [Palo ALto Unit 42 Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/) | Playbook viewer. |
 | [Cyber Threat Alliance Playbook](https://www.cyberthreatalliance.org/resources/?tab=playbooks) | Playbooks from Cyber Threat Alliance members. |
+| [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence.. |
+
 
 
 
@@ -127,9 +130,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. |
 | [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. |
 | [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. |
-| [DNSTwister ](https://dnstwister.report/) | The anti-phishing domain name search engine. |
-
-
+| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. |
+| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. |
 
 
 
@@ -219,6 +221,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
 | [VirusSign](https://virussign.com/downloads.html) | Free and premium virus samples. |
 | [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
+| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
+| [KernekMode](https://www.kernelmode.info/forum/viewforumf278.html?f=16&sid=47e495d381c42ac9a467c91129c428b8) | Forum with malware samples. |
 
 
 
