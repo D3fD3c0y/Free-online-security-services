@@ -17,11 +17,10 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Download Malwares Samples](#Download-Malwares-Samples)
 - [Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
 - [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
-
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Malware Analysis
 
@@ -52,10 +51,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Polyswarm](https://polyswarm.network/scan) | Crowdsourced Malware Analysis for new and emerging threats. |
 | [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
 | [Manalyzer](https://manalyzer.org//) | Manalyzer is a free service which performs static analysis on PE executables to detect undesirable behavior. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## URL IP Domain analysis
 
@@ -88,9 +85,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [BinaryEdge](https://app.binaryedge.io/login) | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. |
 | [Ipinfo.io](https://ipinfo.io/account/login) | The most reliable, accurate, and in-depth source of IP address data available anywhere. |
 | [Cisco Talos](https://www.talosintelligence.com/) | The Talos IP and Domain Reputation Center is the world’s most comprehensive real-time threat detection network. |
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Threat Intelligence
 
@@ -113,12 +109,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Palo ALto Unit 42 Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/) | Playbook viewer. |
 | [Cyber Threat Alliance Playbook](https://www.cyberthreatalliance.org/resources/?tab=playbooks) | Playbooks from Cyber Threat Alliance members. |
 | [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence.. |
-
-
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Phishing
 
@@ -133,10 +125,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. |
 | [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. |
 | [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Vulnerabilities
 
@@ -144,10 +134,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [VulDB](https://vuldb.com/) | Vulnarability database worldwide with more than 111 000 entries available. |
 | [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Reconnaissance
 
@@ -155,10 +143,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
 | [BuiltWith](https://builtwith.com/) | Website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Encoder Decoder
 
@@ -166,10 +152,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. |
 | [UnCoder](https://uncoder.io/) |  online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Social Media
 
@@ -179,11 +163,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Checkusernames](https://checkusernames.com/) | Check the use of your brand or username on 160 Social Networks. |
 | [Knowem](https://knowem.com/) | Allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites. |
 | [BeenVerified](https://www.beenverified.com/) | Provide you with access to public information that was formerly only available to big companies and people with deep pockets in a way that is easy, affordable, and fast. For U.S only. |
-
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Network
 
@@ -191,10 +172,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [PacketTotal](https://www.packettotal.com/) | Simple, free, high-quality PCAP analysis. |
 | [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Referencing
 
@@ -202,11 +181,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
 | [Mitre Att&ck Enterprise Interactive Framework](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. |
-
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Download Malwares Samples
 
@@ -224,20 +200,16 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
 | [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
 | [KernekMode](https://www.kernelmode.info/forum/viewforumf278.html?f=16&sid=47e495d381c42ac9a467c91129c428b8) | Forum with malware samples. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Windows built-in feature to use for offensive
 
 | Link | Description|
 |------|------------|
 | [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) |	Document every binary, script, and library that can be used for Living Off The Land techniques. |
-
-
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Linux built-in feature to use for offensive
 
