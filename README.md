@@ -51,6 +51,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. |
 | [Polyswarm](https://polyswarm.network/scan) | Crowdsourced Malware Analysis for new and emerging threats. |
 | [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
+| [Manalyzer](https://manalyzer.org//) | Manalyzer is a free service which performs static analysis on PE executables to detect undesirable behavior. |
 
 
 
