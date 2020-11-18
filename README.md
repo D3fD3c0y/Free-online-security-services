@@ -108,7 +108,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Fortinet threat Playbook](https://www.fortiguard.com/playbook) | Playbook viewer. |
 | [Palo ALto Unit 42 Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/) | Playbook viewer. |
 | [Cyber Threat Alliance Playbook](https://www.cyberthreatalliance.org/resources/?tab=playbooks) | Playbooks from Cyber Threat Alliance members. |
-| [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence.. |
+| [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence. |
+| [The DFIR Report](https://thedfirreport.com/) | Details about attacks, including IOCs and Traps. |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
