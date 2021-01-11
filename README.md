@@ -17,6 +17,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Download Malwares Samples](#Download-Malwares-Samples)
 - [Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
 - [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
+- [Document referencing](#Documentation-referencing)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -28,7 +29,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [VirusTotal](https://www.virustotal.com) | Google's public platform that compare samples analysis from multiple AV vendors and provide basic Threat Intelligence and metadata related to the samples. Note that the analysis are base on signature detection for most AV vendors.|
 | [Hybrid-Analysis](https://www.hybrid-analysis.com) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
-| [PDF Examiner](https://www.pdfexaminer.com/) | Automated PDF malware analysis. |
 | [Quicksand.io](http://quicksand.io/) | Office document malware analysis. |
 | [AnyRun](https://app.any.run/) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
 | [Intezer Analyze Community Edition](https://analyze.intezer.com/#/) | Intezer's malware analysis and classification of malwares using code DNA mapping. Free account required for usage. |
@@ -38,7 +38,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [SNDBOX](https://app.sndbox.com/login) | SNDBOX's sandbox that leverage multiple AI detection vectors and undetectable kernel driver analysis. |
 | [ViCheck](https://www.vicheck.ca/) | Advanced malware detection engine designed to decrypt and extract malicious executables from common formats. |
 | [MalwareConfig](https://malwareconfig.com/) | Extract config information from RATs. |
-| [Cryptam](http://www.cryptam.com/) | Analyze suspicious office documents to detect embedded executables or exploits. |
 | [OPSWAT Metadefender](https://metadefender.opswat.com/?lang=en) | OPSWAT's deep endpoint forensic analysis for malware using several methods. |
 | [VxCube](http://vxcube.com/) | Dr.Web's analysis tool for various advanced, new-born, mutated malicious codes. |
 | [Valkyrie Comodo](https://valkyrie.comodo.com) | File verdict system. Different from traditional signature based malware detection techniques Valkyrie conducts several analysis using run-time behavior and hundreds of features from a file and based on analysis results can warn users against malware undetected by classic Anti-Virus products. |
@@ -85,6 +84,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [BinaryEdge](https://app.binaryedge.io/login) | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. |
 | [Ipinfo.io](https://ipinfo.io/account/login) | The most reliable, accurate, and in-depth source of IP address data available anywhere. |
 | [Cisco Talos](https://www.talosintelligence.com/) | The Talos IP and Domain Reputation Center is the world’s most comprehensive real-time threat detection network. |
+|[Lookyloo](https://lookyloo.circl.lu/capture) | Tool developed by CIRCL (the Luxembourg CERT) that helps to have a quick overview of a website by scraping it and displaying a tree of domains calling each other. |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -217,3 +217,12 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description|
 |------|------------|
 | [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Documentation referencing
+
+
+| Link | Description|
+|------|------------|
+| [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
