@@ -85,23 +85,18 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [C1fApp](https://www.c1fapp.com/cifapp/login/) | Open source Cyber Intelligence threat feeds. |
-| [RiskIQ Community Edition](https://community.riskiq.com/login) | Free access to comprehensive Internet data to hunt digital threats against their organization, defend their digital footprint and reduce their attack surface across web, mobile, and social channels. |
-| [AlienVault Open Threat Exchange](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community |
-| [CriticalStack Intel Feed](https://intel.criticalstack.com/user/login) | Free threat Intelligence, parsed for the Bro network security monitoring platform. |
-| [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. |
-| [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. |
-| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. |
-| [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. |
-| [Onyphe](https://www.onyphe.io/) | A search engine for open-source and cyber threat intelligence data. |
-| [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. |
-| [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. |
-| [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) | Share Google Sheet file with indicator and information about ransomwares. |
-| [Fortinet threat Playbook](https://www.fortiguard.com/playbook) | Playbook viewer. |
-| [Palo ALto Unit 42 Playbook Viewer](https://pan-unit42.github.io/playbook_viewer/) | Playbook viewer. |
-| [Cyber Threat Alliance Playbook](https://www.cyberthreatalliance.org/resources/?tab=playbooks) | Playbooks from Cyber Threat Alliance members. |
-| [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence. |
-| [The DFIR Report](https://thedfirreport.com/) | Details about attacks, including IOCs and Traps. |
+| [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
+| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
+| [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
+| [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence. | No | 2025-01-16 |
+| [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
+| [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
+| [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
+| [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2025-01-16 |
+| [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2025-01-16 |
+| [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) | Share Google Sheet file with indicator and information about ransomwares. | No | 2025-01-16 |
+| [The DFIR Report](https://thedfirreport.com/) | Details about attacks, including IOCs and Traps. | No | 2025-01-16 |
+| [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
