@@ -88,7 +88,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
 | [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
-| [IOCLists](https://www.ioclists.com/) | Hosted IP, domain, URL, and hash lists with integrations so you can make the most of your tactical intelligence. | No | 2025-01-16 |
 | [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
@@ -100,26 +99,32 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Phishing
 
-| Link | Description|
-|------|------------|
-| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. |
-| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. |
-| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. |
-| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. |
-| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. |
-| [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. |
-| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. |
-| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. |
-| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. | No | 2025-01-16 |
+| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. | No | 2025-01-16 |
+| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. | No | 2025-01-16 |
+| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. | No | 2025-01-16 |
+| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. | No | 2025-01-16 |
+| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. | No | 2025-01-16 |
+| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. | No | 2025-01-16 |
+| [Phish report](https://phish.report/analysis/) | Automatically analyses phishing sites and identifies the best ways you can report it to speed up the takedown process. | No | 2025-01-16 |
+| [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. | No | 2025-01-16 |
+| [Phishtank](https://www.phishtank.com) | PhishTank is a collaborative clearing house for data and information about phishing on the Internet. | No | 2025-01-16 |
+| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ## Vulnerabilities
 
-| Link | Description|
-|------|------------|
-| [VulDB](https://vuldb.com/) | Vulnarability database worldwide with more than 111 000 entries available. |
-| [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [CVEdetails.com](https://www.cvedetails.com/) | CVEdetails.com offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more. | No | 2025-01-16 |
+| [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. | No | 2025-01-16 |
+| [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search) | A collection of vulnerability data that helps security professionals identify and fix cyber threats. The NVD is maintained by the National Institute of Standards and Technology (NIST). | No | 2025-01-16 |
+| [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/) | An open project to list all known cloud vulnerabilities and CSP security issues. | No | 2025-01-16 |
+| [VulDB](https://vuldb.com/) | Vulnarability database worldwide with more than 111 000 entries available. | No | 2025-01-16 |
+| [Vulmon](https://vulmon.com/) |Vulmon is a vulnerability search engine with vulnerability intelligence features. Vulmon conducts full text search in its database; therefore, you can search everything related to vulnerabilities. It includes CVE ID, vulnerability types, vendors, products, exploits, operating systems and anything else related to vulnerabilities. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
