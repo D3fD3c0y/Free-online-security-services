@@ -28,7 +28,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
 | [AnyRun](https://app.any.run/) | Interactive online sandbox. Also perform sample download from URL. | Yes | 2025-01-16 |
-| [GateWatcher](https://intelligence.gatewatcher.com/upload_sample/)) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. | No | 2025-01-16 |
+| [GateWatcher](https://intelligence.gatewatcher.com/upload_sample/) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. | No | 2025-01-16 |
 | [Hybrid-Analysis](https://www.hybrid-analysis.com) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. | No | 2025-01-16 |
 | [IRIS-H Digital Forensics](https://iris-h.services/pages/submit) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. | No | 2025-01-16 |
 | [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. | No | 2025-01-16 |
