@@ -29,7 +29,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------|
 | [VirusTotal](https://www.virustotal.com) | Google's public platform that compare samples analysis from multiple AV vendors and provide basic Threat Intelligence and metadata related to the samples. Note that the analysis are base on signature detection for most AV vendors.|
 | [Hybrid-Analysis](https://www.hybrid-analysis.com) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
-| [Quicksand.io](http://quicksand.io/) | Office document malware analysis. |
+| [Quicksand.io](https://scan.tylabs.com/) | Office document malware analysis. |
 | [AnyRun](https://app.any.run/) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
 | [Intezer Analyze Community Edition](https://analyze.intezer.com/#/) | Intezer's malware analysis and classification of malwares using code DNA mapping. Free account required for usage. |
 | [Joe Sandbox Cloud Community Edition](https://www.joesandbox.com/) | Joe Security's sandbox for WIndows, Android, MacOS and IOS for suspicious activities. Also perform sample download from URL. |
