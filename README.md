@@ -7,6 +7,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Malware Analysis](#Malware-Analysis)
 - [URL/IP/Domain analysis](#URL-IP-Domain-analysis)
 - [Threat Intelligence](#Threat-Intelligence)
+- [IOC Feeds](##IOC-Feeds)
 - [Phishing](#Phishing)
 - [Vulnerabilities](#Vulnerabilities)
 - [Reconnaissance](#Reconnaissance)
@@ -97,6 +98,18 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+## IOC Feeds
+
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Threat Feeds](https://threatfeeds.io/") | Free and open-source threat intelligence feeds. | Yes | 2025-01-16 |
+| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
+| [Threat-intel.xyz](https://www.threat-intel.xyz/") | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
+| [Covert Threat Intelligence Feed list](http://www.covert.io/threat-intelligence) | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ## Phishing
 
 | Link | Description | Account required | Last date verified |
@@ -168,10 +181,11 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Referencing
 
-| Link | Description|
-|------|------------|
-| [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
-| [Mitre Att&ck Enterprise Interactive Framework](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. | No | 2025-01-16 |
+| [Mitre Att&ck Enterprise Interactive Framework](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. | No | 2025-01-16 |
+| [Mitre Att&ck Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) | the tactics and techniques representing the MITRE ATT&CK® Matrix for Enterprise. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
