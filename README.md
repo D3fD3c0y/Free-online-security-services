@@ -94,8 +94,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
 | [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2025-01-16 |
 | [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2025-01-16 |
-| [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) | Share Google Sheet file with indicator and information about ransomwares. | No | 2025-01-16 |
-| [The DFIR Report](https://thedfirreport.com/) | Details about attacks, including IOCs and Traps. | No | 2025-01-16 |
 | [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
