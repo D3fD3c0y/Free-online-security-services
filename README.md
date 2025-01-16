@@ -52,35 +52,31 @@ This is a list of free online tools that can be used for Blue team analyst to in
 ## URL IP Domain analysis
 
 
-| Link | Description|
-|------|------------|
-| [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
-| [DomainBigData](https://domainbigdata.com/) | Biog database of domains and whois records. |
-| [MultiRBL](http://multirbl.valli.org/) | IP check for sending Mailservers. |
-| [Robtex](https://www.robtex.com/) | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. |
-| [SSL Blacklist](https://sslbl.abuse.ch/blacklist/) | List of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. |
-|[URLscan.io](https://urlscan.io/) | Analyse websites and the resources they request. it will let you take a look at the individual resources that are requested when a site is visited. |
-| [DNStrail](https://securitytrails.com/dns-trails) | World's largest repository of historical DNS data. |
-| [URLVoid](https://www.urlvoid.com/) | Analyze a website through multiple blacklist engines and online reputation tools. |
-| [IPVoid](http://www.ipvoid.com/) | IP address tools to discover details about IP addresses. |
-| [Shodan](https://www.shodan.io/) | The world's first search engine for Internet-connected devices. |
-| [ThreatCrowd](https://www.threatcrowd.org/) | Domain, IP. Email or Organization search engine for threats. |
-| [ThreatMiner](https://www.threatminer.org/) | Free analysis from data collection and provide intelligence analysis. |
-| [RegistryDB](https://registrydb.com/) | Database to find domain information from domain name, IP address, owner name or email. |
-| [DNSDumpster](https://dnsdumpster.com/) | Domain research tool that can discover hosts related to a domain. |
-| [HackerTarget](https://hackertarget.com/ip-tools/) | Domain research tool that can discover hosts related to a domain. |
-| [DNSlytics](https://dnslytics.com/) | Find out everything about a domain name, IP address or provider. |
-| [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search?hl=en) | Check site status in Google Safe Browsing database. |
-| [ScreenshotMachine](https://www.screenshotmachine.com/) | Online tool that creates screenshots of websites in a safe way. |
-| [AbuseIPDB](https://www.abuseipdb.com/) | Provide a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online. |
-| [Onyphe](https://www.onyphe.io/) | Search engine for open-source and cyber threat intelligence data collected by crawling various sources available on the Internet or by listening to Internet background noise. ONYPHE does correlate this information with data gathered by performing active Internet scanning for connected devices. |
-| [Censys](https://censys.io/) | Uses Internet scan data to give organizations the visibility they need to defend against attacks and improve their overall security hygiene. |
-| [ThingFul](https://www.thingful.net/) | A search engine for Internet of Things. |
-| [ZoomEye](https://www.zoomeye.org/) | Cyberspace Search Engine recording information of devices, websites, services and components, etc. |
-| [BinaryEdge](https://app.binaryedge.io/login) | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. |
-| [Ipinfo.io](https://ipinfo.io/account/login) | The most reliable, accurate, and in-depth source of IP address data available anywhere. |
-| [Cisco Talos](https://www.talosintelligence.com/) | The Talos IP and Domain Reputation Center is the world’s most comprehensive real-time threat detection network. |
-|[Lookyloo](https://lookyloo.circl.lu/capture) | Tool developed by CIRCL (the Luxembourg CERT) that helps to have a quick overview of a website by scraping it and displaying a tree of domains calling each other. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [AbuseIPDB](https://www.abuseipdb.com/) | Provide a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online. | No | 2025-01-16 |
+| [BinaryEdge](https://app.binaryedge.io/login) | Scan the entire public internet, create real-time threat intelligence streams, and reports that show the exposure of what is connected to the Internet. | Yes | 2025-01-16 |
+| [Censys](https://censys.io/login) | Uses Internet scan data to give organizations the visibility they need to defend against attacks and improve their overall security hygiene. | Yes | 2025-01-16 |
+| [Cisco Talos](https://www.talosintelligence.com/) | The Talos IP and Domain Reputation Center is the world’s most comprehensive real-time threat detection network. | No | 2025-01-16 |
+| [DNSDumpster](https://dnsdumpster.com/) | Domain research tool that can discover hosts related to a domain. | No | 2025-01-16 |
+| [DNSlytics](https://dnslytics.com/) | Find out everything about a domain name, IP address or provider. | No | 2025-01-16 |
+| [SecurityTrails](https://securitytrails.com/) | World's largest repository of historical DNS data. | No | 2025-01-16 |
+| [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search?hl=en) | Check site status in Google Safe Browsing database. | No | 2025-01-16 |
+| [HackerTarget](https://hackertarget.com/dns-lookup/) | Domain research tool that can discover hosts related to a domain. | No | 2025-01-16 |
+| [IPVoid](http://www.ipvoid.com/) | IP address tools to discover details about IP addresses. | No | 2025-01-16 |
+| [Ipinfo.io](https://ipinfo.io/) | The most reliable, accurate, and in-depth source of IP address data available anywhere. | No | 2025-01-16 |
+| [Lookyloo](https://lookyloo.circl.lu/capture) | Tool developed by CIRCL (the Luxembourg CERT) that helps to have a quick overview of a website by scraping it and displaying a tree of domains calling each other. | No | 2025-01-16 |
+| [MultiRBL](http://multirbl.valli.org/) | IP check for sending Mailservers. | No | 2025-01-16 |
+| [Onyphe](https://search.onyphe.io/) | Search engine for open-source and cyber threat intelligence data collected by crawling various sources available on the Internet or by listening to Internet background noise. ONYPHE does correlate this information with data gathered by performing active Internet scanning for connected devices. | No | 2025-01-16 |
+| [Robtex](https://www.robtex.com/) | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. | No | 2025-01-16 |
+| [SSL Blacklist](https://sslbl.abuse.ch/blacklist/) | List of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. | No | 2025-01-16 |
+| [ScreenshotMachine](https://www.screenshotmachine.com/) | Online tool that creates screenshots of websites in a safe way. | No | 2025-01-16 |
+| [Shodan](https://www.shodan.io/) | The world's first search engine for Internet-connected devices. | No | 2025-01-16 |
+| [ThreatMiner](https://www.threatminer.org/) | Free analysis from data collection and provide intelligence analysis. | No | 2025-01-16 |
+| [URLVoid](https://www.urlvoid.com/) | Analyze a website through multiple blacklist engines and online reputation tools. | No | 2025-01-16 |
+| [URLscan.io](https://urlscan.io/) | Analyse websites and the resources they request. it will let you take a look at the individual resources that are requested when a site is visited. | No | 2025-01-16 |
+| [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. | No | 2025-01-16 |
+| [ZoomEye](https://www.zoomeye.org/) | Cyberspace Search Engine recording information of devices, websites, services and components, etc. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
