@@ -83,8 +83,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 ## Threat Intelligence
 
 
-| Link | Description|
-|------|------------|
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
 | [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
 | [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
