@@ -25,31 +25,27 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Malware Analysis
 
-| Link | Description|
-|------|------------|
-| [VirusTotal](https://www.virustotal.com) | Google's public platform that compare samples analysis from multiple AV vendors and provide basic Threat Intelligence and metadata related to the samples. Note that the analysis are base on signature detection for most AV vendors.|
-| [Hybrid-Analysis](https://www.hybrid-analysis.com) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
-| [Quicksand.io](https://scan.tylabs.com/) | Office document malware analysis. |
-| [AnyRun](https://app.any.run/) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
-| [Intezer Analyze Community Edition](https://analyze.intezer.com/#/) | Intezer's malware analysis and classification of malwares using code DNA mapping. Free account required for usage. |
-| [Joe Sandbox Cloud Community Edition](https://www.joesandbox.com/) | Joe Security's sandbox for WIndows, Android, MacOS and IOS for suspicious activities. Also perform sample download from URL. |
-| [Sandblast](https://threatpoint.checkpoint.com/ThreatPortal/emulation) | Check Point's public version of Threat Emulation. |
-| [Cape](https://capesandbox.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
-| [SNDBOX](https://app.sndbox.com/login) | SNDBOX's sandbox that leverage multiple AI detection vectors and undetectable kernel driver analysis. |
-| [ViCheck](https://www.vicheck.ca/) | Advanced malware detection engine designed to decrypt and extract malicious executables from common formats. |
-| [MalwareConfig](https://malwareconfig.com/) | Extract config information from RATs. |
-| [OPSWAT Metadefender](https://metadefender.opswat.com/?lang=en) | OPSWAT's deep endpoint forensic analysis for malware using several methods. |
-| [VxCube](http://vxcube.com/) | Dr.Web's analysis tool for various advanced, new-born, mutated malicious codes. |
-| [Valkyrie Comodo](https://valkyrie.comodo.com) | File verdict system. Different from traditional signature based malware detection techniques Valkyrie conducts several analysis using run-time behavior and hundreds of features from a file and based on analysis results can warn users against malware undetected by classic Anti-Virus products. |
-| [Pikker](https://sandbox.pikker.ee) | Free public instance of Cuckoo sandbox |
-| [SecondWrite](https://webportal.secondwrite.com/analysis/) | SecondWrite brings deep learning and forced code-execution to the battle against advanced malware. Our dynamic analysis malware detector uses patented technology to find, execute and characterize hidden code paths that other malware detectors miss. |
-| [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. |
-| [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. |
-| [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. |
-| [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. |
-| [Polyswarm](https://polyswarm.network/scan) | Crowdsourced Malware Analysis for new and emerging threats. |
-| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
-| [Manalyzer](https://manalyzer.org//) | Manalyzer is a free service which performs static analysis on PE executables to detect undesirable behavior. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [AnyRun](https://app.any.run/) | Interactive online sandbox. Also perform sample download from URL. | Yes | 2025-01-16 |
+| [GateWatcher](https://intelligence.gatewatcher.com/sample_browse/) | This site is a resource for security professionals and enthusiasts. Gatewatcher Intelligence is a non-commercial community project. Our list can be used for free by anyone. Feel free to use it. | No | 2025-01-16 |
+| [Hybrid-Analysis](https://www.hybrid-analysis.com) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. | No | 2025-01-16 |
+| [IRIS-H Digital Forensics](https://iris-h.services/pages/dashboard) | IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats. The tool produces two types of data views allowing for thorough digital forensics examination. Support Microsoft Office Documents, .lnk and RTF files. | No | 2025-01-16 |
+| [InQuest Labs](https://labs.inquest.net/) | Capable of recursively decompressing, decoding, deobfuscating, decompiling, deciphering, and more. We aim to automate and scale the reverse engineering skill-set of a typical SOC analyst. | No | 2025-01-16 |
+| [Intezer Analyze Community Edition](https://analyze.intezer.com/#/) | Intezer's malware analysis and classification of malwares using code DNA mapping.  | Yes | 2025-01-16 |
+| [Joe Sandbox Cloud Community Edition](https://www.joesandbox.com/) | Joe Security's sandbox for Windows, Android, MacOS and IOS for suspicious activities. Also perform sample download from URL. | Yes | 2025-01-16 |
+| [MalwareConfig](https://malwareconfig.com/) | Extract config information from RATs. | No | 2025-01-16 |
+| [Manalyzer](https://manalyzer.org//) | Manalyzer is a free service which performs static analysis on PE executables to detect undesirable behavior. | No | 2025-01-16 |
+| [OPSWAT Metadefender](https://metadefender.com/) | OPSWAT's deep endpoint forensic analysis for malware using several methods. | No | 2025-01-16 |
+| [Pikker](https://sandbox.pikker.ee) | Free public instance of Cuckoo sandbox | No | 2025-01-16 |
+| [Polyswarm](https://polyswarm.network/scan) | Crowdsourced Malware Analysis for new and emerging threats. | No | 2025-01-16 |
+| [Quicksand.io](https://scan.tylabs.com/) | Office document malware analysis. | No | 2025-01-16 |
+| [Sandblast](https://threatpoint.checkpoint.com/ThreatPortal/emulation) | Check Point's public version of Threat Emulation. | Yes | 2025-01-16 |
+| [SecondWrite](https://webportal.secondwrite.com/) | SecondWrite brings deep learning and forced code-execution to the battle against advanced malware. Our dynamic analysis malware detector uses patented technology to find, execute and characterize hidden code paths that other malware detectors miss. | No | 2025-01-16 |
+| [Talos File Reputation](https://talosintelligence.com/talos_file_reputation/) | The Cisco Talos Intelligence Group maintains a reputation disposition on billions of files. This reputation system is fed into the AMP, FirePower, ClamAV, and Open-Source Snort product lines. | No | 2025-01-16 |
+| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. | Yes | 2025-01-16 |
+| [Valkyrie Comodo](https://valkyrie.comodo.com) | File verdict system. Different from traditional signature based malware detection techniques Valkyrie conducts several analysis using run-time behavior and hundreds of features from a file and based on analysis results can warn users against malware undetected by classic Anti-Virus products. | No | 2025-01-16 |
+| [VirusTotal](https://www.virustotal.com) | Google's public platform that compare samples analysis from multiple AV vendors and provide basic Threat Intelligence and metadata related to the samples. Note that the analysis are base on signature detection for most AV vendors.| No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
