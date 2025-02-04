@@ -87,7 +87,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
 | [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
-| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
 | [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
@@ -230,3 +229,14 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description|
 |------|------------|
 | [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Sigma
+| Link | Description|
+|------|------------|
+| [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
+| [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
+| [Detection.FYI](https://detection.fyi/) | TBD |
+
