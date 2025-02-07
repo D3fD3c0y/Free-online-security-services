@@ -160,21 +160,26 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Social Media
 
-| Link | Description|
-|------|------------|
-| [Namechk](https://namechk.com/) | Free username and domain search tool. We're the fastest and most efficient way for you to search for your desired username across hundreds of social networks and domain extension - all at once. |
-| [Checkusernames](https://checkusernames.com/) | Check the use of your brand or username on 160 Social Networks. |
-| [Knowem](https://knowem.com/) | Allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
 | [BeenVerified](https://www.beenverified.com/) | Provide you with access to public information that was formerly only available to big companies and people with deep pockets in a way that is easy, affordable, and fast. For U.S only. |
+| [Checkusernames](https://checkusernames.com/) | Check the use of your brand or username on 160 Social Networks. |
+| [Instagram Explorer](https://www.osintcombine.com/free-osint-tools/instagram-explorer) | Find images on Instagram by date at particular locations. This tool makes searching easier and more efficient. | No | 2025-02-07 |
+| [Knowem](https://knowem.com/) | Allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites. |
+| [Namechk](https://namechk.com/) | Free username and domain search tool. We're the fastest and most efficient way for you to search for your desired username across hundreds of social networks and domain extension - all at once. |
+| [Reddit Post Analyzer](https://www.osintcombine.com/free-osint-tools/reddit-post-analyser) | Use this OSINT tool to analyze Reddit posts. Enter the post URL to get a downloadable file which outlines comment metadata like time, timezone and username, plus sentiment ranking. | No | 2025-02-07 |
+| [Social Geo Lens](https://www.osintcombine.com/free-osint-tools/social-geo-lens) | Conduct geo-searching on social media platforms. The map-based interface makes it easy to use and the design means you remain compliant with relevant terms of service. | No | 2025-02-07 |
+| [TikTok Quick Search](https://www.osintcombine.com/free-osint-tools/tiktok-quick-search) | Search usernames and hashtags on TikTok via a browser. All results take the user to the source on the TikTok.com website or are provided as a Google search result. | No | 2025-02-07 |
+| [Whatsmyname](https://whatsmyname.app/) | Use this OSINT tool to find usernames across many websites. | No | 2025-02-07 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ## Network
 
-| Link | Description|
-|------|------------|
-| [PacketTotal](https://www.packettotal.com/) | Simple, free, high-quality PCAP analysis. |
-| [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [PacketTotal](https://www.packettotal.com/) | Simple, free, high-quality PCAP analysis. | No | 2025-02-07 |
+| [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. | No | 2025-02-07 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -200,10 +205,9 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
 | [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
 | [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
-| [VirusSign](https://virussign.com/downloads.html) | Free and premium virus samples. |
 | [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
 | [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
-| [KernekMode](https://www.kernelmode.info/forum/viewforumf278.html?f=16&sid=47e495d381c42ac9a467c91129c428b8) | Forum with malware samples. |
+| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -225,18 +229,36 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Documentation referencing
 
-
 | Link | Description|
 |------|------------|
-| [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. |
+| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
+| [Shodan Search modifiers](https://www.shodan.io/search/filters) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
 ## Sigma
+
 | Link | Description|
 |------|------------|
 | [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
 | [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
 | [Detection.FYI](https://detection.fyi/) | TBD |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+
+## Threat Matrix
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Microsoft Threat Matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/) | Threat Matrix. | No | 2025-01-16 |
+| [MITRE Cloud Matrix](https://attack.mitre.org/matrices/enterprise/cloud/) | The tactics and techniques representing the MITRE ATT&CK® cloud platforms. | No | 2025-01-16 |
+| [Cloud Security Alliance Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4) | he Cloud Controls Matrix (CCM) is a cybersecurity control framework that maps to industry best practices and is considered the standard for cloud security and privacy. | Yes | 2025-01-16 |
+| [ITM Insider Threat Matrix](https://insiderthreatmatrix.org/) | ITM is a continually growing framework for Digital Investigators investigating instances of computer-enabled insider threats in organizations of any size. | No | 2025-01-16 |
+| [MITRE Atlas (AI)](https://atlas.mitre.org/matrices/ATLAS) | Navigate threats to AI systems through real-world insights. | No | 2025-01-16 |
+| [Microsoft Threat Matrix for Storage Services](https://microsoft.github.io/Threat-matrix-for-storage-services/) | The purpose of the threat matrix for storage services is to conceptualize the known tactics, techniques, and procedures (TTP) that adversaries may use against this type accounts. | No | 2025-01-16 |
+| [Microsoft DevOps Threat Matrix](https://www.microsoft.com/en-us/security/blog/2023/04/06/devops-threat-matrix/) | Our goal for developing the threat matrix for DevOps is to build a comprehensive knowledgebase that defenders can use to keep track of and build defenses against relevant attack techniques. | No | 2025-01-16 |
+| [OWASP Threat and Safeguard Matrix (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/) | The Threat and Safeguard Matrix (TaSM) is an action-oriented view to safeguard and enable the business created by CISO Tradecraft. | No | 2025-01-16 |
+| [Confiant Malvertising Attack Matrix](https://matrix.confiant.com/#matrix) | Detailing threat actors through Malvertising Activity. | No | 2025-01-16 |
+| [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means. | No | 2025-01-16 |
