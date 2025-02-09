@@ -14,7 +14,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Encoder/Decoder](#Encoder-Decoder)
 - [Social Media](#Social-Media)
 - [Network](#Network)
-- [Referencing](#Referencing)
+- [Framework](#Framework)
 - [Download Malwares Samples](#Download-Malwares-Samples)
 - [Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
 - [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
@@ -183,13 +183,18 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Referencing
+## Framework
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. | No | 2025-01-16 |
-| [Mitre Att&ck Enterprise Interactive Framework](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. | No | 2025-01-16 |
 | [Mitre Att&ck Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) | the tactics and techniques representing the MITRE ATT&CK® Matrix for Enterprise. | No | 2025-01-16 |
+| [Mitre Att&ck Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. | No | 2025-01-16 |
+| [Mitre CAPEC](https://capec.mitre.org/) | CAPEC™ provide a comprehensive dictionary of known patterns of attack employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. | No | 2025-01-16 |
+| [Mitre CREF Navigator](https://crefnavigator.mitre.org/navigator) | The CREF Navigator™ was developed as a web based relational tool distilling the complex concepts and relationships from NIST SP 800-160 Volume 2 (Rev 1) into useful cyber resiliency terms, tables, and relationship visualizations enabling architectural and engineering analysis. | No | 2025-01-16 |
+| [Mitre CVE](https://www.cve.org/) | The mission of the CVE® Program is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities. | No | 2025-01-16 |
+| [Mitre CWE](https://cwe.mitre.org/) | Common Weakness Enumeration (CWE™) is a community-developed list of common software and hardware weaknesses. A “weakness” is a condition in a software, firmware, hardware, or service component that, under certain circumstances, could contribute to the introduction of vulnerabilities. | No | 2025-01-16 |
+| [Mitre DEFEND](https://d3fend.mitre.org/) | A framework in which we encode a countermeasure knowledge base, but more specifically, a knowledge graph. | No | 2025-01-16 |
+| [Mitre EMB3D](https://d3fend.mitre.org/) | The EMB3D Threat Model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with security mechanisms to mitigate them. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
