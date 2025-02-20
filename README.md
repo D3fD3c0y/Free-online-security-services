@@ -32,8 +32,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
 | [Shodan Search modifiers](https://www.shodan.io/search/filters) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
+| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -42,17 +42,17 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
 | [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
-| [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
 | [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
+| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
+| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
+| [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
 | [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. |
-| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
-| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
-| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
 | [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
 | [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
-| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
+| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
+| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
+| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -88,10 +88,10 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [Threat Feeds](https://threatfeeds.io/") | Free and open-source threat intelligence feeds. | Yes | 2025-01-16 |
-| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
-| [Threat-intel.xyz](https://www.threat-intel.xyz/") | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
 | [Covert Threat Intelligence Feed list](http://www.covert.io/threat-intelligence) | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
+| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
+| [Threat Feeds](https://threatfeeds.io/") | Free and open-source threat intelligence feeds. | Yes | 2025-01-16 |
+| [Threat-intel.xyz](https://www.threat-intel.xyz/") | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -165,8 +165,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
 | [BuiltWith](https://builtwith.com/) | Website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet. |
+| [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -175,9 +175,9 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description|
 |------|------------|
-| [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
-| [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
 | [Detection.FYI](https://detection.fyi/) | TBD |
+| [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
+| [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -219,16 +219,16 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [Microsoft Threat Matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/) | Threat Matrix. | No | 2025-01-16 |
-| [MITRE Cloud Matrix](https://attack.mitre.org/matrices/enterprise/cloud/) | The tactics and techniques representing the MITRE ATT&CK® cloud platforms. | No | 2025-01-16 |
 | [Cloud Security Alliance Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4) | he Cloud Controls Matrix (CCM) is a cybersecurity control framework that maps to industry best practices and is considered the standard for cloud security and privacy. | Yes | 2025-01-16 |
+| [Confiant Malvertising Attack Matrix](https://matrix.confiant.com/#matrix) | Detailing threat actors through Malvertising Activity. | No | 2025-01-16 |
 | [ITM Insider Threat Matrix](https://insiderthreatmatrix.org/) | ITM is a continually growing framework for Digital Investigators investigating instances of computer-enabled insider threats in organizations of any size. | No | 2025-01-16 |
 | [MITRE Atlas (AI)](https://atlas.mitre.org/matrices/ATLAS) | Navigate threats to AI systems through real-world insights. | No | 2025-01-16 |
-| [Microsoft Threat Matrix for Storage Services](https://microsoft.github.io/Threat-matrix-for-storage-services/) | The purpose of the threat matrix for storage services is to conceptualize the known tactics, techniques, and procedures (TTP) that adversaries may use against this type accounts. | No | 2025-01-16 |
+| [MITRE Cloud Matrix](https://attack.mitre.org/matrices/enterprise/cloud/) | The tactics and techniques representing the MITRE ATT&CK® cloud platforms. | No | 2025-01-16 |
 | [Microsoft DevOps Threat Matrix](https://www.microsoft.com/en-us/security/blog/2023/04/06/devops-threat-matrix/) | Our goal for developing the threat matrix for DevOps is to build a comprehensive knowledgebase that defenders can use to keep track of and build defenses against relevant attack techniques. | No | 2025-01-16 |
+| [Microsoft Threat Matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/) | Threat Matrix. | No | 2025-01-16 |
+| [Microsoft Threat Matrix for Storage Services](https://microsoft.github.io/Threat-matrix-for-storage-services/) | The purpose of the threat matrix for storage services is to conceptualize the known tactics, techniques, and procedures (TTP) that adversaries may use against this type accounts. | No | 2025-01-16 |
 | [OWASP Threat and Safeguard Matrix (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/) | The Threat and Safeguard Matrix (TaSM) is an action-oriented view to safeguard and enable the business created by CISO Tradecraft. | No | 2025-01-16 |
-| [Confiant Malvertising Attack Matrix](https://matrix.confiant.com/#matrix) | Detailing threat actors through Malvertising Activity. | No | 2025-01-16 |
-| [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means. | No | 2025-01-16 |
+| [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means. | No |2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
