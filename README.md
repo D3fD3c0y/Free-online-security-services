@@ -187,7 +187,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [Mitre Att&ck Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) | the tactics and techniques representing the MITRE ATT&CK® Matrix for Enterprise. | No | 2025-01-16 |
+| [DISARM Red Framework](https://disarmfoundation.github.io/disarm-navigator/) | The DISARM Red Framework provides a common language for documenting influence operations. When different organisations describe what they're seeing in the same terms, they can share intelligence, and gain a better understanding of actors' manipulative behaviours. | No | 2025-02-20 |
+| [Mitre Att&ck Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) | The tactics and techniques representing the MITRE ATT&CK® Matrix for Enterprise. | No | 2025-01-16 |
 | [Mitre Att&ck Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. | No | 2025-01-16 |
 | [Mitre CAPEC](https://capec.mitre.org/) | CAPEC™ provide a comprehensive dictionary of known patterns of attack employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. | No | 2025-01-16 |
 | [Mitre CREF Navigator](https://crefnavigator.mitre.org/navigator) | The CREF Navigator™ was developed as a web based relational tool distilling the complex concepts and relationships from NIST SP 800-160 Volume 2 (Rev 1) into useful cyber resiliency terms, tables, and relationship visualizations enabling architectural and engineering analysis. | No | 2025-01-16 |
