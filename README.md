@@ -4,25 +4,106 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 
 # Table of content
-- [Malware Analysis](#Malware-Analysis)
-- [URL/IP/Domain analysis](#URL-IP-Domain-analysis)
-- [Threat Intelligence](#Threat-Intelligence)
-- [IOC Feeds](##IOC-Feeds)
-- [Phishing](#Phishing)
-- [Vulnerabilities](#Vulnerabilities)
-- [Reconnaissance](#Reconnaissance)
-- [Encoder/Decoder](#Encoder-Decoder)
-- [Social Media](#Social-Media)
-- [Network](#Network)
-- [Framework](#Framework)
-- [Download Malwares Samples](#Download-Malwares-Samples)
-- [Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
-- [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
 - [Document referencing](#Documentation-referencing)
+- [Download Malwares Samples](#Download-Malwares-Samples)
+- [Encoder/Decoder](#Encoder-Decoder)
+- [Framework](#Framework)
+- [IOC Feeds](##IOC-Feeds)
+- [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
+- [Malware Analysis](#Malware-Analysis)
+- [Network](#Network)
+- [Phishing](#Phishing)
+- [Reconnaissance](#Reconnaissance)
+- [Sigma](#Sigma)
+- [Social Media](#Social-Media)
+- [Threat Intelligence](#Threat-Intelligence)
+- [Threat Matrix](#Threat-Matrix)
+- [URL/IP/Domain analysis](#URL-IP-Domain-analysis)
+- [Vulnerabilities](#Vulnerabilities)
+- [Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+
+## Documentation referencing
+
+| Link | Description|
+|------|------------|
+| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
+| [Shodan Search modifiers](https://www.shodan.io/search/filters) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Download Malwares Samples
+
+| Link | Description|
+|------|------------|
+| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
+| [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
+| [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
+| [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
+| [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. |
+| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
+| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
+| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
+| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
+| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
+| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Encoder Decoder
+
+| Link | Description|
+|------|------------|
+| [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. |
+| [UnCoder](https://uncoder.io/) |  online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Framework
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [DISARM Red Framework](https://disarmfoundation.github.io/disarm-navigator/) | The DISARM Red Framework provides a common language for documenting influence operations. When different organisations describe what they're seeing in the same terms, they can share intelligence, and gain a better understanding of actors' manipulative behaviours. | No | 2025-02-20 |
+| [Mitre Att&ck Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) | The tactics and techniques representing the MITRE ATT&CK® Matrix for Enterprise. | No | 2025-01-16 |
+| [Mitre Att&ck Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. | No | 2025-01-16 |
+| [Mitre CAPEC](https://capec.mitre.org/) | CAPEC™ provide a comprehensive dictionary of known patterns of attack employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. | No | 2025-01-16 |
+| [Mitre CREF Navigator](https://crefnavigator.mitre.org/navigator) | The CREF Navigator™ was developed as a web based relational tool distilling the complex concepts and relationships from NIST SP 800-160 Volume 2 (Rev 1) into useful cyber resiliency terms, tables, and relationship visualizations enabling architectural and engineering analysis. | No | 2025-01-16 |
+| [Mitre CVE](https://www.cve.org/) | The mission of the CVE® Program is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities. | No | 2025-01-16 |
+| [Mitre CWE](https://cwe.mitre.org/) | Common Weakness Enumeration (CWE™) is a community-developed list of common software and hardware weaknesses. A “weakness” is a condition in a software, firmware, hardware, or service component that, under certain circumstances, could contribute to the introduction of vulnerabilities. | No | 2025-01-16 |
+| [Mitre DEFEND](https://d3fend.mitre.org/) | A framework in which we encode a countermeasure knowledge base, but more specifically, a knowledge graph. | No | 2025-01-16 |
+| [Mitre EMB3D](https://d3fend.mitre.org/) | The EMB3D Threat Model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with security mechanisms to mitigate them. | No | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## IOC Feeds
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Threat Feeds](https://threatfeeds.io/") | Free and open-source threat intelligence feeds. | Yes | 2025-01-16 |
+| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
+| [Threat-intel.xyz](https://www.threat-intel.xyz/") | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
+| [Covert Threat Intelligence Feed list](http://www.covert.io/threat-intelligence) | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Linux built-in feature to use for offensive
+
+| Link | Description|
+|------|------------|
+| [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 ## Malware Analysis
 
@@ -50,8 +131,109 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## URL IP Domain analysis
 
+## Network
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [PacketTotal](https://www.packettotal.com/) | Simple, free, high-quality PCAP analysis. | No | 2025-02-07 |
+| [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. | No | 2025-02-07 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Phishing
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. | No | 2025-01-16 |
+| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. | No | 2025-01-16 |
+| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. | No | 2025-01-16 |
+| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. | No | 2025-01-16 |
+| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. | No | 2025-01-16 |
+| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. | No | 2025-01-16 |
+| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. | No | 2025-01-16 |
+| [Phish report](https://phish.report/analysis/) | Automatically analyses phishing sites and identifies the best ways you can report it to speed up the takedown process. | No | 2025-01-16 |
+| [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. | No | 2025-01-16 |
+| [Phishtank](https://www.phishtank.com) | PhishTank is a collaborative clearing house for data and information about phishing on the Internet. | No | 2025-01-16 |
+| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. | No | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Reconnaissance
+
+| Link | Description|
+|------|------------|
+| [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
+| [BuiltWith](https://builtwith.com/) | Website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet. |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Sigma
+
+| Link | Description|
+|------|------------|
+| [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
+| [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
+| [Detection.FYI](https://detection.fyi/) | TBD |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Social Media
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [BeenVerified](https://www.beenverified.com/) | Provide you with access to public information that was formerly only available to big companies and people with deep pockets in a way that is easy, affordable, and fast. For U.S only. |
+| [Checkusernames](https://checkusernames.com/) | Check the use of your brand or username on 160 Social Networks. |
+| [Instagram Explorer](https://www.osintcombine.com/free-osint-tools/instagram-explorer) | Find images on Instagram by date at particular locations. This tool makes searching easier and more efficient. | No | 2025-02-07 |
+| [Knowem](https://knowem.com/) | Allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites. |
+| [Namechk](https://namechk.com/) | Free username and domain search tool. We're the fastest and most efficient way for you to search for your desired username across hundreds of social networks and domain extension - all at once. |
+| [Reddit Post Analyzer](https://www.osintcombine.com/free-osint-tools/reddit-post-analyser) | Use this OSINT tool to analyze Reddit posts. Enter the post URL to get a downloadable file which outlines comment metadata like time, timezone and username, plus sentiment ranking. | No | 2025-02-07 |
+| [Social Geo Lens](https://www.osintcombine.com/free-osint-tools/social-geo-lens) | Conduct geo-searching on social media platforms. The map-based interface makes it easy to use and the design means you remain compliant with relevant terms of service. | No | 2025-02-07 |
+| [TikTok Quick Search](https://www.osintcombine.com/free-osint-tools/tiktok-quick-search) | Search usernames and hashtags on TikTok via a browser. All results take the user to the source on the TikTok.com website or are provided as a Google search result. | No | 2025-02-07 |
+| [Whatsmyname](https://whatsmyname.app/) | Use this OSINT tool to find usernames across many websites. | No | 2025-02-07 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Threat Intelligence
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
+| [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
+| [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
+| [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
+| [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
+| [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2025-01-16 |
+| [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2025-01-16 |
+| [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## Threat Matrix
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Microsoft Threat Matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/) | Threat Matrix. | No | 2025-01-16 |
+| [MITRE Cloud Matrix](https://attack.mitre.org/matrices/enterprise/cloud/) | The tactics and techniques representing the MITRE ATT&CK® cloud platforms. | No | 2025-01-16 |
+| [Cloud Security Alliance Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4) | he Cloud Controls Matrix (CCM) is a cybersecurity control framework that maps to industry best practices and is considered the standard for cloud security and privacy. | Yes | 2025-01-16 |
+| [ITM Insider Threat Matrix](https://insiderthreatmatrix.org/) | ITM is a continually growing framework for Digital Investigators investigating instances of computer-enabled insider threats in organizations of any size. | No | 2025-01-16 |
+| [MITRE Atlas (AI)](https://atlas.mitre.org/matrices/ATLAS) | Navigate threats to AI systems through real-world insights. | No | 2025-01-16 |
+| [Microsoft Threat Matrix for Storage Services](https://microsoft.github.io/Threat-matrix-for-storage-services/) | The purpose of the threat matrix for storage services is to conceptualize the known tactics, techniques, and procedures (TTP) that adversaries may use against this type accounts. | No | 2025-01-16 |
+| [Microsoft DevOps Threat Matrix](https://www.microsoft.com/en-us/security/blog/2023/04/06/devops-threat-matrix/) | Our goal for developing the threat matrix for DevOps is to build a comprehensive knowledgebase that defenders can use to keep track of and build defenses against relevant attack techniques. | No | 2025-01-16 |
+| [OWASP Threat and Safeguard Matrix (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/) | The Threat and Safeguard Matrix (TaSM) is an action-oriented view to safeguard and enable the business created by CISO Tradecraft. | No | 2025-01-16 |
+| [Confiant Malvertising Attack Matrix](https://matrix.confiant.com/#matrix) | Detailing threat actors through Malvertising Activity. | No | 2025-01-16 |
+| [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means. | No | 2025-01-16 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+## URL IP Domain analysis
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
@@ -81,51 +263,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Threat Intelligence
-
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
-| [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
-| [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
-| [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
-| [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
-| [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2025-01-16 |
-| [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2025-01-16 |
-| [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2025-01-16 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## IOC Feeds
-
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [Threat Feeds](https://threatfeeds.io/") | Free and open-source threat intelligence feeds. | Yes | 2025-01-16 |
-| [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2025-01-16 |
-| [Threat-intel.xyz](https://www.threat-intel.xyz/") | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
-| [Covert Threat Intelligence Feed list](http://www.covert.io/threat-intelligence) | Free and Open Source Threat Intelligence Feeds. | No | 2025-01-16 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Phishing
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. | No | 2025-01-16 |
-| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. | No | 2025-01-16 |
-| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. | No | 2025-01-16 |
-| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. | No | 2025-01-16 |
-| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. | No | 2025-01-16 |
-| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. | No | 2025-01-16 |
-| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. | No | 2025-01-16 |
-| [Phish report](https://phish.report/analysis/) | Automatically analyses phishing sites and identifies the best ways you can report it to speed up the takedown process. | No | 2025-01-16 |
-| [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. | No | 2025-01-16 |
-| [Phishtank](https://www.phishtank.com) | PhishTank is a collaborative clearing house for data and information about phishing on the Internet. | No | 2025-01-16 |
-| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. | No | 2025-01-16 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Vulnerabilities
 
@@ -140,82 +277,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Reconnaissance
-
-| Link | Description|
-|------|------------|
-| [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
-| [BuiltWith](https://builtwith.com/) | Website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet. |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Encoder Decoder
-
-| Link | Description|
-|------|------------|
-| [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. |
-| [UnCoder](https://uncoder.io/) |  online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Social Media
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [BeenVerified](https://www.beenverified.com/) | Provide you with access to public information that was formerly only available to big companies and people with deep pockets in a way that is easy, affordable, and fast. For U.S only. |
-| [Checkusernames](https://checkusernames.com/) | Check the use of your brand or username on 160 Social Networks. |
-| [Instagram Explorer](https://www.osintcombine.com/free-osint-tools/instagram-explorer) | Find images on Instagram by date at particular locations. This tool makes searching easier and more efficient. | No | 2025-02-07 |
-| [Knowem](https://knowem.com/) | Allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites. |
-| [Namechk](https://namechk.com/) | Free username and domain search tool. We're the fastest and most efficient way for you to search for your desired username across hundreds of social networks and domain extension - all at once. |
-| [Reddit Post Analyzer](https://www.osintcombine.com/free-osint-tools/reddit-post-analyser) | Use this OSINT tool to analyze Reddit posts. Enter the post URL to get a downloadable file which outlines comment metadata like time, timezone and username, plus sentiment ranking. | No | 2025-02-07 |
-| [Social Geo Lens](https://www.osintcombine.com/free-osint-tools/social-geo-lens) | Conduct geo-searching on social media platforms. The map-based interface makes it easy to use and the design means you remain compliant with relevant terms of service. | No | 2025-02-07 |
-| [TikTok Quick Search](https://www.osintcombine.com/free-osint-tools/tiktok-quick-search) | Search usernames and hashtags on TikTok via a browser. All results take the user to the source on the TikTok.com website or are provided as a Google search result. | No | 2025-02-07 |
-| [Whatsmyname](https://whatsmyname.app/) | Use this OSINT tool to find usernames across many websites. | No | 2025-02-07 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Network
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [PacketTotal](https://www.packettotal.com/) | Simple, free, high-quality PCAP analysis. | No | 2025-02-07 |
-| [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. | No | 2025-02-07 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Framework
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [DISARM Red Framework](https://disarmfoundation.github.io/disarm-navigator/) | The DISARM Red Framework provides a common language for documenting influence operations. When different organisations describe what they're seeing in the same terms, they can share intelligence, and gain a better understanding of actors' manipulative behaviours. | No | 2025-02-20 |
-| [Mitre Att&ck Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/) | The tactics and techniques representing the MITRE ATT&CK® Matrix for Enterprise. | No | 2025-01-16 |
-| [Mitre Att&ck Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) | Interactive interface of the MITRE ATT&CK Framework which can be use as graphical reference for understanding/following invetsigation. | No | 2025-01-16 |
-| [Mitre CAPEC](https://capec.mitre.org/) | CAPEC™ provide a comprehensive dictionary of known patterns of attack employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. | No | 2025-01-16 |
-| [Mitre CREF Navigator](https://crefnavigator.mitre.org/navigator) | The CREF Navigator™ was developed as a web based relational tool distilling the complex concepts and relationships from NIST SP 800-160 Volume 2 (Rev 1) into useful cyber resiliency terms, tables, and relationship visualizations enabling architectural and engineering analysis. | No | 2025-01-16 |
-| [Mitre CVE](https://www.cve.org/) | The mission of the CVE® Program is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities. | No | 2025-01-16 |
-| [Mitre CWE](https://cwe.mitre.org/) | Common Weakness Enumeration (CWE™) is a community-developed list of common software and hardware weaknesses. A “weakness” is a condition in a software, firmware, hardware, or service component that, under certain circumstances, could contribute to the introduction of vulnerabilities. | No | 2025-01-16 |
-| [Mitre DEFEND](https://d3fend.mitre.org/) | A framework in which we encode a countermeasure knowledge base, but more specifically, a knowledge graph. | No | 2025-01-16 |
-| [Mitre EMB3D](https://d3fend.mitre.org/) | The EMB3D Threat Model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with security mechanisms to mitigate them. | No | 2025-01-16 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Download Malwares Samples
-
-| Link | Description|
-|------|------------|
-| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
-| [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
-| [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
-| [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
-| [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. |
-| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
-| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
-| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
-| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
-| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
-| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Windows built-in feature to use for offensive
 
@@ -225,46 +286,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Linux built-in feature to use for offensive
-
-| Link | Description|
-|------|------------|
-| [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Documentation referencing
-
-| Link | Description|
-|------|------------|
-| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
-| [Shodan Search modifiers](https://www.shodan.io/search/filters) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
-## Sigma
 
-| Link | Description|
-|------|------------|
-| [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
-| [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
-| [Detection.FYI](https://detection.fyi/) | TBD |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-## Threat Matrix
-
-| Link | Description | Account required | Last date verified |
-|------|------------| ---------------- | ------------------ |
-| [Microsoft Threat Matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/) | Threat Matrix. | No | 2025-01-16 |
-| [MITRE Cloud Matrix](https://attack.mitre.org/matrices/enterprise/cloud/) | The tactics and techniques representing the MITRE ATT&CK® cloud platforms. | No | 2025-01-16 |
-| [Cloud Security Alliance Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4) | he Cloud Controls Matrix (CCM) is a cybersecurity control framework that maps to industry best practices and is considered the standard for cloud security and privacy. | Yes | 2025-01-16 |
-| [ITM Insider Threat Matrix](https://insiderthreatmatrix.org/) | ITM is a continually growing framework for Digital Investigators investigating instances of computer-enabled insider threats in organizations of any size. | No | 2025-01-16 |
-| [MITRE Atlas (AI)](https://atlas.mitre.org/matrices/ATLAS) | Navigate threats to AI systems through real-world insights. | No | 2025-01-16 |
-| [Microsoft Threat Matrix for Storage Services](https://microsoft.github.io/Threat-matrix-for-storage-services/) | The purpose of the threat matrix for storage services is to conceptualize the known tactics, techniques, and procedures (TTP) that adversaries may use against this type accounts. | No | 2025-01-16 |
-| [Microsoft DevOps Threat Matrix](https://www.microsoft.com/en-us/security/blog/2023/04/06/devops-threat-matrix/) | Our goal for developing the threat matrix for DevOps is to build a comprehensive knowledgebase that defenders can use to keep track of and build defenses against relevant attack techniques. | No | 2025-01-16 |
-| [OWASP Threat and Safeguard Matrix (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/) | The Threat and Safeguard Matrix (TaSM) is an action-oriented view to safeguard and enable the business created by CISO Tradecraft. | No | 2025-01-16 |
-| [Confiant Malvertising Attack Matrix](https://matrix.confiant.com/#matrix) | Detailing threat actors through Malvertising Activity. | No | 2025-01-16 |
-| [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means. | No | 2025-01-16 |
