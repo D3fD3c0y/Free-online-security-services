@@ -204,6 +204,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
 | [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
+| [CTI Chef](https://ctichef.com/) | A tool used for cyber threat intelligence (CTI) analysis, specifically focused on analyzing and understanding cybersecurity threats. It may be used to collect, analyze, and disseminate intelligence on cyber threats. | No | 2025-05-27 |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
 | [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
