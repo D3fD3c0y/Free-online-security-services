@@ -269,6 +269,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
+| [CVE2EPSS](https://www.cve2epss.com/) | | No | 2025-05-27 |
 | [CVEdetails.com](https://www.cvedetails.com/) | CVEdetails.com offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more. | No | 2025-01-16 |
 | [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. | No | 2025-01-16 |
 | [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search) | A collection of vulnerability data that helps security professionals identify and fix cyber threats. The NVD is maintained by the National Institute of Standards and Technology (NIST). | No | 2025-01-16 |
