@@ -8,7 +8,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Download Malwares Samples](#Download-Malwares-Samples)
 - [Encoder/Decoder](#Encoder-Decoder)
 - [Framework](#Framework)
-- [IOC Feeds](##IOC-Feeds)
+- [IOC Feeds](#IOC-Feeds)
 - [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
 - [Malware Analysis](#Malware-Analysis)
 - [Network](#Network)
