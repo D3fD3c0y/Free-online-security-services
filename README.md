@@ -46,7 +46,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
 | [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
 | [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
-| [MalShare](https://malshare.com/) | A free Malware repository providing researchers access to samples, malicous feeds, and Yara results. |
 | [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. |
 | [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
 | [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
