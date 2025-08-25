@@ -81,6 +81,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Mitre CWE](https://cwe.mitre.org/) | Common Weakness Enumeration (CWE™) is a community-developed list of common software and hardware weaknesses. A “weakness” is a condition in a software, firmware, hardware, or service component that, under certain circumstances, could contribute to the introduction of vulnerabilities. | No | 2025-01-16 |
 | [Mitre DEFEND](https://d3fend.mitre.org/) | A framework in which we encode a countermeasure knowledge base, but more specifically, a knowledge graph. | No | 2025-01-16 |
 | [Mitre EMB3D](https://d3fend.mitre.org/) | The EMB3D Threat Model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with security mechanisms to mitigate them. | No | 2025-01-16 |
+| [OSWAP BLADE](https://www.bladeframework.org/) | The OWASP Business Logic Attack Definition (BLADE) Framework, is an open-source knowledge-base created to help cybersecurity professionals identify the phases, tactics and techniques used by adversaries to exploit weaknesses in the business logic of web facing systems (websites and APIs) | No | 2025-08-25 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
