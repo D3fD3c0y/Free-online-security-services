@@ -9,7 +9,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Encoder/Decoder](#Encoder-Decoder)
 - [Framework](#Framework)
 - [IOC Feeds](#IOC-Feeds)
-- [Linux built-in feature to use for offensive](#Linux-built-in-feature-to-use-for-offensive)
+- [LoLBaS Projects](#LoLBaS-Projects)
 - [Malware Analysis](#Malware-Analysis)
 - [Network](#Network)
 - [Phishing](#Phishing)
@@ -99,11 +99,17 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 
 
-## Linux built-in feature to use for offensive
+## LoLBaS Projects
 
-| Link | Description|
-|------|------------|
-| [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. | No | 2025-09-02 |
+| [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) |	Document every binary, script, and library that can be used for Living Off The Land techniques. | No | 2025-09-02 |
+| [LOLDrivers](https://www.loldrivers.io/) | Living Off The Land Drivers is a curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks. The project helps security professionals stay informed and mitigate potential threats. | No | 2025-09-02 |
+| [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) | LOLESXi features a comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations. | No | 2025-09-02 |
+| [LOLRMM](https://lolrmm.io/) | LOLRMM is a curated list of Remote Monitoring and Management (RMM) tools that could potentially be abused by threat actors. | No | 2025-09-02 |
+| [LOLOL](Living Off the Living Off the Land) | A great collection of resources to thrive off the land | No | 2025-09-02 |
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -281,16 +287,3 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Vulmon](https://vulmon.com/) |Vulmon is a vulnerability search engine with vulnerability intelligence features. Vulmon conducts full text search in its database; therefore, you can search everything related to vulnerabilities. It includes CVE ID, vulnerability types, vendors, products, exploits, operating systems and anything else related to vulnerabilities. | No | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
-## Windows built-in feature to use for offensive
-
-| Link | Description|
-|------|------------|
-| [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) |	Document every binary, script, and library that can be used for Living Off The Land techniques. |
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-
-
