@@ -108,7 +108,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [LOLDrivers](https://www.loldrivers.io/) | Living Off The Land Drivers is a curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks. The project helps security professionals stay informed and mitigate potential threats. | No | 2025-09-02 |
 | [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) | LOLESXi features a comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations. | No | 2025-09-02 |
 | [LOLRMM](https://lolrmm.io/) | LOLRMM is a curated list of Remote Monitoring and Management (RMM) tools that could potentially be abused by threat actors. | No | 2025-09-02 |
-| [LOLOL](Living Off the Living Off the Land) | A great collection of resources to thrive off the land | No | 2025-09-02 |
+| [LOLOL](https://lolol.farm/) | A great collection of resources to thrive off the land | No | 2025-09-02 |
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
