@@ -164,6 +164,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. | No | 2025-01-16 |
 | [Phish report](https://phish.report/analysis/) | Automatically analyses phishing sites and identifies the best ways you can report it to speed up the takedown process. | No | 2025-01-16 |
 | [Phishcheck](https://phishcheck.me/) | Find out what's lurking behind that URL. | No | 2025-01-16 |
+| [PhisHunt](https://phishunt.io/) | Up-to-date feed of active phishing and scam sites, along with details and quick updates to help you understand this threat. | No | 2025-09-10 |
 | [Phishtank](https://www.phishtank.com) | PhishTank is a collaborative clearing house for data and information about phishing on the Internet. | No | 2025-01-16 |
 | [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. | No | 2025-01-16 |
 <p>&nbsp;</p>
