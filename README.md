@@ -215,12 +215,14 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------| ---------------- | ------------------ |
 | [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2025-01-16 |
 | [CTI Chef](https://ctichef.com/) | A tool used for cyber threat intelligence (CTI) analysis, specifically focused on analyzing and understanding cybersecurity threats. It may be used to collect, analyze, and disseminate intelligence on cyber threats. | No | 2025-05-27 |
+| [Group-IB  Malware Detonation Reports](https://detonation.group-ib.com/) | Group-IB's Malware Detonation Platform does much more than merely identify good and bad files. It reveals how attacks unfold in real time and pinpoints which processes are executed, which files are created or modified, and what network connections are established. | No | 2025-12-23 |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2025-01-16 |
 | [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2025-01-16 |
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
 | [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2025-01-16 |
 | [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2025-01-16 |
+| [Lighthouse feed finder](https://lighthouseapp.io/tools/feed-finder) | Search for a RSS Feed for a domain. | No | 2025-12-23 |
 | [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2025-01-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
