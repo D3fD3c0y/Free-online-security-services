@@ -221,6 +221,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2025-01-16 |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2025-01-16 |
 | [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2025-01-16 |
+| [Poc-on-Github by Nomi-Sec](https://github.com/nomi-sec/PoC-in-GitHub) | PoC auto collect from GitHub. ⚠️ Be careful Malware. | No | 2026-01-13 |
 | [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2025-01-16 |
 | [Lighthouse feed finder](https://lighthouseapp.io/tools/feed-finder) | Search for a RSS Feed for a domain. | No | 2025-12-23 |
 | [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2025-01-16 |
