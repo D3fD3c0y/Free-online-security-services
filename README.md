@@ -14,7 +14,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Network](#Network)
 - [Phishing](#Phishing)
 - [Reconnaissance](#Reconnaissance)
-- [Signature (Sigma/Yara)](#Signature-(Sigma/Yara))
+- [Signature (Sigma/Yara)](#Signature-SigmaYara)
 - [Social Media](#Social-Media)
 - [Threat Intelligence](#Threat-Intelligence)
 - [Threat Matrix](#Threat-Matrix)
