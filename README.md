@@ -14,7 +14,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Network](#Network)
 - [Phishing](#Phishing)
 - [Reconnaissance](#Reconnaissance)
-- [Sigma](#Sigma)
+- [Signature (Sigma/Yara)](#Signature-(Sigma/Yara))
 - [Social Media](#Social-Media)
 - [Threat Intelligence](#Threat-Intelligence)
 - [Threat Matrix](#Threat-Matrix)
@@ -181,10 +181,11 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 
 
-## Sigma
+## Signature (Sigma/Yara)
 
 | Link | Description|
 |------|------------|
+| [100 days of Yara](https://github.com/RustyNoob-619/100-Days-of-YARA-2026/tree/main/Rules) | TBD |
 | [Detection.FYI](https://detection.fyi/) | TBD |
 | [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
 | [Sigma Search Engine](https://sigmasearchengine.com/) | TBD |
