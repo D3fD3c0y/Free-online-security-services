@@ -273,6 +273,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [ThreatMiner](https://www.threatminer.org/) | Free analysis from data collection and provide intelligence analysis. | No | 2025-01-16 |
 | [URLVoid](https://www.urlvoid.com/) | Analyze a website through multiple blacklist engines and online reputation tools. | No | 2025-01-16 |
 | [URLscan.io](https://urlscan.io/) | Analyse websites and the resources they request. it will let you take a look at the individual resources that are requested when a site is visited. | No | 2025-01-16 |
+| [Validin](https://app.validin.com/login) | Connect the dots across threat indicators. Validin correlates unrelated IPs, domains, and hashes with organized threat activity, analyzes registration and hosting patterns, and attributes domains and IPs to ongoing APT activity. | Yes | 2026-02-10 |
 | [VirusTotal](https://www.virustotal.com/#/home/url) | Compare URL categorization from multiple URL filtering solutions vendors. | No | 2025-01-16 |
 | [WebCheck](https://web-check.xyz/) | We give you X-RayVision for your Website | No | 2026-02-09 |
 | [ZoomEye](https://www.zoomeye.org/) | Cyberspace Search Engine recording information of devices, websites, services and components, etc. | No | 2025-01-16 |
