@@ -263,6 +263,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [SecurityTrails](https://securitytrails.com/) | World's largest repository of historical DNS data. | No | 2025-01-16 |
 | [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search?hl=en) | Check site status in Google Safe Browsing database. | No | 2025-01-16 |
 | [HackerTarget](https://hackertarget.com/dns-lookup/) | Domain research tool that can discover hosts related to a domain. | No | 2025-01-16 |
+| [IPQS](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/lookup/) | Search Accurate IP Details — Check Proxy, VPN, or TOR Activity With Anonymous Proxy & VPN Detection. | No | 2026-03-12 |
 | [IPVoid](http://www.ipvoid.com/) | IP address tools to discover details about IP addresses. | No | 2025-01-16 |
 | [Ipinfo.io](https://ipinfo.io/) | The most reliable, accurate, and in-depth source of IP address data available anywhere. | No | 2025-01-16 |
 | [Lookyloo](https://lookyloo.circl.lu/capture) | Tool developed by CIRCL (the Luxembourg CERT) that helps to have a quick overview of a website by scraping it and displaying a tree of domains calling each other. | No | 2025-01-16 |
