@@ -30,38 +30,38 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Documentation referencing
 
-| Link | Description|
-|------|------------|
-| [Shodan Search modifiers](https://www.shodan.io/search/filters) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
-| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2025-01-16 |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Shodan Search modifiers](https://www.shodan.io/search/filters) | There are a set of special terms that you can use to refine your search results. | Yes | 2026-03-16 |
+| [VirusTotal Search modifiers](https://docs.virustotal.com/docs/file-search-modifiers) | There are a set of special terms that you can use to refine your search results. | Yes | 2026-03-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
 ## Download Malwares Samples
 
-| Link | Description|
-|------|------------|
-| [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. |
-| [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. |
-| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. |
-| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2025-01-16 |
-| [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. |
-| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. |
-| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. |
-| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. |
-| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. |
-| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. | Yes | 2026-03-16 |
+| [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. | No | 2026-03-16 |
+| [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. | Yes | 2026-03-16 |
+| [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2026-03-16 |
+| [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. | No | 2026-03-16 |
+| [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. | Yes | 2026-03-16 |
+| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. | Yes | 2026-03-16 |
+| [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. | No | 2026-03-16 |
+| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. | Yes | 2026-03-16 |
+| [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. | No | 2026-03-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
 ## Encoder Decoder
 
-| Link | Description|
-|------|------------|
-| [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. |
-| [UnCoder](https://uncoder.io/) |  online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. |
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [CyberChief](https://gchq.github.io/CyberChef/) | UK GCHQ's free online tool to convert, parse or carry out well over 100 different operations. | No | 2026-03-16 |
+| [UnCoder](https://uncoder.io/) |  online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. | No | 2026-03-16 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -173,8 +173,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Reconnaissance
 
-| Link | Description|
-|------|------------|
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
 | [BuiltWith](https://builtwith.com/) | Website profiler, lead generation, competitive analysis and business intelligence tool providing technology adoption, ecommerce data and usage analytics for the internet. |
 | [Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0) | Search 90+ paste sites. Filter by source & keyword. |
 <p>&nbsp;</p>
@@ -183,8 +183,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 ## Signature (Sigma/Yara)
 
-| Link | Description|
-|------|------------|
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
 | [100 days of Yara](https://github.com/RustyNoob-619/100-Days-of-YARA-2026/tree/main/Rules) | TBD |
 | [Detection.FYI](https://detection.fyi/) | TBD |
 | [Sigma HQ](https://github.com/SigmaHQ/sigma) | TBD |
