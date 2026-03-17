@@ -20,7 +20,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Threat Matrix](#Threat-Matrix)
 - [URL/IP/Domain analysis](#URL-IP-Domain-analysis)
 - [Vulnerabilities](#Vulnerabilities)
-- [Windows built-in feature to use for offensive](#Windows-built-in-feature-to-use-for-offensive)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
