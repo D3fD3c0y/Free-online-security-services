@@ -217,11 +217,12 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2026-03-17 |
 | [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2026-03-17 |
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2026-03-17 |
+| [Lighthouse feed finder](https://lighthouseapp.io/tools/feed-finder) | Search for a RSS Feed for a domain. | No | 2026-03-17 |
 | [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) | Provide a resource for rapid identification and actionable context when investigating malware. | No | 2026-03-17 |
 | [Maltiverse](https://www.maltiverse.com/search) | Analyzes all the possible dimensions and points of view of known and classified IOC's to compare them with the unknown indicators for matching. | No | 2026-03-17 |
 | [Poc-on-Github by Nomi-Sec](https://github.com/nomi-sec/PoC-in-GitHub) | PoC auto collect from GitHub. ⚠️ Be careful Malware. | No | 2026-03-17 |
 | [PulseDive](https://pulsedive.com/) | An analyst-centric threat intelligence platform that can provide users with comprehensive community threat intelligence to help identify known threats. | No | 2026-03-17 |
-| [Lighthouse feed finder](https://lighthouseapp.io/tools/feed-finder) | Search for a RSS Feed for a domain. | No | 2026-03-17 |
+| [STB cybersecurity](https://stbcybersecurity.com/) | 160+ live threat feeds. Ransomware tracking. CVE monitoring. When your business faces an attack, our incident response team is one call away. | No | 2026-04-06 |
 | [The Cert graveyard](https://certgraveyard.org/) | The Cert Graveyard is a centralized place to document the abuse of code-signing certificates. | No | 2026-04-01 |
 | [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2026-03-17 |
 | [ThreatLandscape Browser-based STIX 2.1 bundle visualizer](https://stix-viewer.threatlandscape.io/) | Llightweight STIX 2.1 viewer that runs entirely in the browser. No login, no install, just upload a bundle JSON and get an interactive relationship graph. | No | 2026-03-23 |
