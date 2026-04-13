@@ -91,6 +91,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------| ---------------- | ------------------ |
 | [C2IntelFeed](https://github.com/drb-ra/C2IntelFeeds/tree/master/C2_configs). | Free and Open Source Threat Intelligence Feeds dedicated to Cobalt Strike C2, Empire C2 and PoshC2. | No | 2026-03-17 |
 | [Covert Threat Intelligence Feed list](http://www.covert.io/threat-intelligence) | Free and Open Source Threat Intelligence Feeds. | No | 2026-03-17 |
+| [ExtSentry](https://extsentry.github.io/)] | Community-driven browser extension threat intelligence. IOC feeds for malicious and sensitive browser extensions across 16+ security platform formats. | No | 2026-04-13 |
 | [FireHOL IPList](http://iplists.firehol.org/) | Analyse all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities. | No | 2026-03-17 |
 | [Threat Feeds](https://threatfeeds.io/) | Free and open-source threat intelligence feeds. | Yes | 2026-03-17 |
 | [Threat-intel.xyz](https://www.threat-intel.xyz/) | Free and Open Source Threat Intelligence Feeds. | No | 2026-03-17 |
