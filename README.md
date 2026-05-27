@@ -306,7 +306,8 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [CVE2EPSS](https://www.cve2epss.com/) | | No | 2026-03-17 |
+| [AWASP Top Ten](https://awasp.org/) | Web application vulnerabilities ranked by real-world exploitation frequency — not theoretical risk. Drawn from breach reports, CVE data, and incident response findings. | No | 2026-05-27 |
+| [CVE2EPSS](https://www.cve2epss.com/) | A simple web app which enables you to quickly and easily lookup EPSS scores for a CVE ID. | No | 2026-03-17 |
 | [CVEdetails.com](https://www.cvedetails.com/) | CVEdetails.com offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more. | No | 2026-03-17 |
 | [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. | No | 2026-03-17 |
 | [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search) | A collection of vulnerability data that helps security professionals identify and fix cyber threats. The NVD is maintained by the National Institute of Standards and Technology (NIST). | No | 2026-03-17 |
