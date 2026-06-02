@@ -171,6 +171,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
+| [DNSAudit](https://dnsaudit.io/) | Find DNS Exposure Before Attackers Do. Uncover exposed services, risky DNS patterns, and misconfigurations attackers already see. | No | 2026-06-02 |
 | [DynamiteLab COmmunity](https://dynamitelab.com/) | DynamiteLab, formerly known as PacketTotal, is the world’s largest platform for public packet-capture (PCAP) exchange and analysis with over 100,000 publicly shared PCAP samples. | No | 2026-03-17 |
 | [UserAgentString](http://useragentstring.com/) | List over 100 user agent string and provide tool to automatically explain the information found in the User agent string. | No | 2026-03-17 |
 <p>&nbsp;</p>
