@@ -28,6 +28,16 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 
 
+## AI
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [AIGregator](https://aigregator.com/) | Find the right AI tool, fast. Search, compare, and bookmark across every AI category. | No | 2026-06-02 |
+| [PromptIntel](https://promptintel.novahunting.ai/) | A collaborative threat intel platform to identify patterns and artifacts indicating potential exploitation or misuse of Large Language Models. | No | 2026-06-02 |
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 ## Documentation referencing
 
