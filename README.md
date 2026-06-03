@@ -13,7 +13,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Framework](#Framework)
 - [IOC Feeds](#IOC-Feeds)
 - [LoLBaS Projects](#LoLBaS-Projects)
-- [Malware Analysis](#Malware-Analysis)
+- [Malware Analysis](#Malware-Analysis-sandbox)
 - [Network](#Network)
 - [Phishing](#Phishing)
 - [Reconnaissance](#Reconnaissance)
@@ -165,7 +165,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 
 
-## Malware Analysis
+## Malware Analysis (sandbox)
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
