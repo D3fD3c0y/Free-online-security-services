@@ -56,15 +56,15 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
 | [AnyRun](https://app.any.run/#register) | Interactive online sandbox. Also perform sample download from URL. Use the corporate account. | Yes | 2026-03-16 |
-| [Cape](https://cape.contextis.com/) | Context's cuckoo sandbox. Also perform sample download from URL. | No | 2026-03-16 |
+| [Cape](https://capesandbox.com/) | Context's cuckoo sandbox. Also perform sample download from URL. | No | 2026-06-03 |
 | [Hybrid-Analysis](https://www.hybrid-analysis.com/) | CrowdStrike's public sandbox. Also perform sample download from URL. Free account required to download samples. | Yes | 2026-03-16 |
+| [Joe Sandbox](https://www.joesandbox.com/) | a comprehensive, cloud-based malware and phishing analysis platform developed by Joe Security. | Yes | 2026-06-03 |
 | [MalShare](https://malshare.com) | The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. | Yes | 2026-03-16 |
 | [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) | MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers. | No | 2026-03-16 |
 | [Polyswarm](https://polyswarm.network/) | Crowdsourced Malware Analysis for new and emerging threats. Free and premium services. | Yes | 2026-03-16 |
-| [Triage](https://tria.ge/) | Hatching Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and malware configuration extraction for dozens of malware families. Free account required. | Yes | 2026-03-16 |
 | [VX-underground](https://vx-underground.org/samples.html) | A free Malware repository providing researchers access to samples. | No | 2026-03-16 |
-| [VirusBay](https://beta.virusbay.io/) | VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. | Yes | 2026-03-16 |
 | [VirusShare](https://virusshare.com/) | A free Malware repository providing researchers access to samples. | No | 2026-03-16 |
+| [VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community. Premium accoutn required to downlaod malware sample | Yes | 2026-06-01 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
