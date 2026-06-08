@@ -7,7 +7,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 # Table of content
 - [AI](#AI)
-- [Archives](Free-Onlie-Archives)
+- [Archives](Free-Online-Archives)
 - [Document referencing](#Documentation-referencing)
 - [Download Malwares Samples](#Download-Malwares-Samples)
 - [Encoder/Decoder](#Encoder-Decoder)
