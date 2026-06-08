@@ -7,6 +7,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 # Table of content
 - [AI](#AI)
+- [Archives](Free-Onlie-Archives)
 - [Document referencing](#Documentation-referencing)
 - [Download Malwares Samples](#Download-Malwares-Samples)
 - [Encoder/Decoder](#Encoder-Decoder)
@@ -40,6 +41,17 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+
+## Free Online Archives
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Archive.today](https://archive.ph/) | Archive.today is a time capsule for web pages! It takes a 'snapshot' of a webpage that will always be online even if the original page disappears. It saves a text and a graphical copy of the page for better accuracy and provides a short and reliable link to an unalterable record of any web page including those from Web 2.0 sites. | No | 2026-06-08 |
+| [Software Heritage](https://archive.softwareheritage.org/) | We collect and preserve software in source code form, because software embodies our technical and scientific knowledge and humanity cannot afford the risk of losing it. | No | 2026-06-08 |
+| [Wayback Machine](https://web.archive.org/) | The Internet Archive, a 501(c)(3) non-profit, is building a digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, we provide free access to researchers, historians, scholars, people with print disabilities, and the general public. Our mission is to provide Universal Access to All Knowledge. | No | 2026-06-08 |
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Documentation referencing
 
