@@ -252,6 +252,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [AttackRuleMap](https://attackrulemap.com/) | Mapping of open-source detection rules and atomic tests. | No | 2026-06-02 |
 | [Detection.FYI](https://detection.fyi/) | A detection pipeline maturity model for monitoring “everything” while ensuring the highest fidelity signals still rise to the top | No | 2026-03-17 |
 | [Rulehound](https://rulehound.com/rules) | An index of publicly available and open-source threat detection rulesets | No | 2026-06-15 |
+| [Sigconverter.io](https://sigconverter.io/) | sigma rule converter | No | 2026-06-15 |
 | [Sigma HQ](https://github.com/SigmaHQ/sigma) | Main Sigma Rule Repository | No | 2026-03-17 |
 | [Sigma Search Engine](https://sigmasearchengine.com/) | Search Engine related to Sigma Rule Repository | No | 2026-03-17 |
 <p>&nbsp;</p>
