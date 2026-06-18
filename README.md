@@ -20,6 +20,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Reconnaissance](#Reconnaissance)
 - [Signature (Sigma/Yara)](#Signature-SigmaYara)
 - [Social Media](#Social-Media)
+- [Threat Actors](#Threat-Actors)
 - [Threat Intelligence](#Threat-Intelligence)
 - [Threat Matrix](#Threat-Matrix)
 - [URL/IP/Domain analysis](#URL-IP-Domain-analysis)
@@ -274,6 +275,44 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 
 
+## Threat Actors
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Ahn Lab](https://www.ahnlab.com/en/service/threat-actor-naming) | Overview of AhnLab's internal threat actor naming framework and operational taxonomy. | No | 2026-06-18 |
+| [Analyst1](https://analyst1.com/threat-actors/) | Detailed index and analysis tracking various nation-state and cybercrime threat actor groups. | No | 2026-06-18 |
+| [APTMAP](https://andreacristaldi.github.io/APTmap/) | An interactive visual map used to visualize geographic origins and targets of APT groups. | No | 2026-06-18 |
+| [Bi.Zone](https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_eng.pdf) | Downloadable 2024 Threat Zone research report focusing on targeted adversary analysis (Page 5). | No | 2026-06-18 |
+| [CrowdStrike Adversary Universe](https://adversary.crowdstrike.com/en-US/) \| [CrowdStrike Profiles](https://www.crowdstrike.com/adversaries/) | Extensive global databases detailing naming conventions and operational profiles of tracked adversaries. | No | 2026-06-18 |
+| [Cyber Security Incident Database (CSID)](https://www.csidb.net/csidb/actors/) | Tracking database recording cyber incidents mapped back to specific attribution actors. | No | 2026-06-18 |
+| [Cyble](https://cyble.com/threat-actor-profiles/) | Strategic intelligence repository featuring deep-dives into modern threat groups and malware operators. | No | 2026-06-18 |
+| [Dragos](https://www.dragos.com/threat-groups/) | Threat group matrix tracking specialized adversaries targeting Industrial Control Systems (ICS) and Operational Technology (OT). | No | 2026-06-18 |
+| [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) | Aggregated threat actor database capturing profiles, leak sites, and active ransomware syndicates. | No | 2026-06-18|
+| [IBM X-Force ITG](https://exchange.xforce.ibmcloud.com/search/ITG) \| [IBM X-Force Hive](https://exchange.xforce.ibmcloud.com/search/hive) | IBM X-Force platform search directories detailing Intel Threat Groups (ITG) and indicator collections. | No | 2026-06-18 |
+| [Infoblox](https://www.infoblox.com/threat-intel/#threat-actors) | DNS-focused threat intelligence hub offering reports and behavioral data on critical threat actors. | No | 2026-06-18 |
+| [Kaspersky Securelist](https://apt.securelist.com/) | Live intelligence tracking center for Advanced Persistent Threats (APTs) investigated by Kaspersky. | No | 2026-06-18 |
+| [Malpedia Threat Actors](https://malpedia.caad.fkie.fraunhofer.de/actors) | Component of the Malpedia project correlating malware families with the threat groups deploying them. | No | 2026-06-18 |
+| [Microsoft](https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming) | Official documentation outlining Microsoft’s updated weather-themed naming taxonomy for threat groups. | No | 2026-06-18 |
+| [MISP Threat Actor Alias](https://www.misp-project.org/galaxy.html#_threat_actor) | Galaxy definitions within the MISP project providing structured taxonomies for threat actor aliases. | No | 2026-06-18 |
+| [MITRE ATT&CK Groups](https://attack.mitre.org/groups/) | Comprehensive industry-standard knowledge base tracking adversary groups and mapping them to specific TTPs. | No | 2026-06-18 |
+| [Mandiant/Google Threat Intelligence](https://cloud.google.com/security/resources/insights/apt-groups?hl=en) | Global directory tracking historical and ongoing Advanced Persistent Threat (APT) groups. | No | 2026-06-18 |
+| [Palo Alto Unit 42 Matrix](https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/) \| [Unit 42 Categories](https://unit42.paloaltonetworks.com/category/threat-actor-groups/) | Complete directory and historical research archive covering actor groups actively monitored by Unit 42. | No | 2026-06-18 |
+| [Positive Technologies](https://global.ptsecurity.com/en/research/hacker-groups/) | Threat intelligence catalog providing research into cybercriminal clusters and persistent hacker groups. | No | 2026-06-18 |
+| [Rosetta Stone of APT groups](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396) | Publicly updated, crowdsourced spreadsheet cross-referencing disparate multi-vendor aliases for APTs. | No | 2026-06-18 |
+| [Sophos](https://www.sophos.com/en-us/threat-profiles?page=1&pageSize=10) | Portal hosting searchable active threat profiles and adversary playbook summaries. | No | 2026-06-18 |
+| [StrangerealIntel Github mapping](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv) | Open-source CSV dataset mapping specialized campaign data, infrastructure, and threat structures. | No | 2026-06-18 |
+| [Symantec Landscape 2024](https://www.symantec.broadcom.com/hubfs/Symantec_Ransomware_Threat_Landscape_2024.pdf) \| [Symantec 2022 Whitepaper](https://www.symantec.broadcom.com/hubfs/2022_Ransomware_Whitepaper.pdf) \| [Symantec Threat Hunter Reports](https://www.symantec.broadcom.com/hubfs/SED/SED_Threat_Hunter_Reports_Alerts/SED_FY22Q2_SES_Ransomware-Threat-Landscape_WP.pdf) | A compiled suite of threat reports and whitepapers detailing modern ransomware operators. | No | 2026-06-18 |
+| [Thailand CERT](https://apt.thaicert.or.th/cgi-bin/listgroups.cgi) | A searchable, comprehensive open database maintained by ThaiCERT detailing global APT actor profiles. | No | 2026-06-18 |
+| [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) | Active dashboard providing visual metrics and breakdowns of global cyber operations and vectors. | No | 2026-06-18 |
+| [ThreatRadar](https://apt.threatradar.net/) | Specialized tracking utility visualizing the continuous landscape of advanced cyber threat activities. | No | 2026-06-18 |
+| [Threat Actor Username Search](https://threatactorusernames.com/) | Search through 3M+ threat actor usernames and find where they operate | No | 2026-06-18 |
+| [Ukraine CERT](https://cert.gov.ua/search/UAC-) | Official search database by CERT-UA tracking regional threat actors under "UAC" tracking numbers. | No | 2026-06-18 |
+| [Vectra AI](https://www.vectra.ai/threat-actors) | Contextual resource profiles breaking down high-profile target vectors and active threat groups. | No | 2026-06-18 |
+| [VulDB](https://vuldb.com/?actor) | Threat intelligence component of the VulDB repository mapping vulnerabilities directly to explicit actors. | No | 2026-06-18 |
+| [WIZ](https://threats.wiz.io/all-actors) | Central directory analyzing cloud-focused threat actors, cloud security incidents, and general groups. | No | 2026-06-18 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ## Threat Intelligence
 
 | Link | Description | Account required | Last date verified |
@@ -320,7 +359,6 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [OWASP Threat and Safeguard Matrix (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/) | The Threat and Safeguard Matrix (TaSM) is an action-oriented view to safeguard and enable the business created by CISO Tradecraft. | No | 2026-03-17 |
 | [Own the Browser](https://ownthebrowser.com/browsers/) | Browser Directory - Explore browser profiles and assessments | No | 2026-03-17 |
 | [Space Attack Research and Tactic Analysis (SPARTA) matrix](https://sparta.aerospace.org/) | SPARTA is intended to provide unclassified information to space professionals about how spacecraft may be compromised via cyber and traditional counterspace means. | No | 2026-03-17 |
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
