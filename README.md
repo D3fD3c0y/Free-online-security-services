@@ -16,6 +16,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [LoLBaS Projects](#LoLBaS-Projects)
 - [Malware Analysis](#Malware-Analysis-sandbox)
 - [Network](#Network)
+- [OSINT](#OSINT)
 - [Phishing](#Phishing)
 - [Reconnaissance](#Reconnaissance)
 - [Signature (Sigma/Yara)](#Signature-SigmaYara)
@@ -215,6 +216,17 @@ This is a list of free online tools that can be used for Blue team analyst to in
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+
+## OSINT
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [Epios](https://epieos.com/) | The ultimate OSINT tool for email and phone reverse lookup | No | 2026-06-17 |
+| [Kronikier](https://kronikier.soxoj.com/) | Get historical contacts for a website from web.archive.org snapshots. Web version of https://github.com/soxoj/kronikier — consider installing the CLI for fuller results and faster scans. | No | 2026-06-02 |
+| [Max Intel — Free OSINT Tools](https://maxintel.org/) | Max Intel provides 100+ free OSINT tools for investigators, researchers, journalists, and cybersecurity professionals. Open-source intelligence (OSINT) is defined by U.S. Public Law 109-163 as intelligence produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience. Search people, emails, usernames, domains, IP addresses, and more — no registration or API keys required. | No | 2026-06-18 |
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Phishing
 
