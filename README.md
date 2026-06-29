@@ -350,6 +350,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2026-03-17 |
 | [ThreatLandscape Browser-based STIX 2.1 bundle visualizer](https://stix-viewer.threatlandscape.io/) | Llightweight STIX 2.1 viewer that runs entirely in the browser. No login, no install, just upload a bundle JSON and get an interactive relationship graph. | No | 2026-03-23 |
 | [ThreatNexus](https://www.threatnexus.online/) | Nation-State APT Intelligence | No | 2026-04-17 |
+| [Webamon](https://intel.webamon.com/) | Advanced threat intelligence platform that scans, monitors, and indexes the web daily. easy to search across domains, IPs, and hashes | No | 2026-06-29 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
