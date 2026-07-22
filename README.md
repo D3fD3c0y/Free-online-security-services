@@ -329,6 +329,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
+| [CavalierGPT](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt-cybersecurity-osint-investigations) | CavalierGPT is a powerful assistant built on the Cavalier API, designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security. By Hudson Rock | No | 2026-07-22 |
 | [CERT.PL](https://mwdb.cert.pl/login) | | Yes | 2026-03-17 |
 | [CTI Chef](https://ctichef.com/) | A tool used for cyber threat intelligence (CTI) analysis, specifically focused on analyzing and understanding cybersecurity threats. It may be used to collect, analyze, and disseminate intelligence on cyber threats. | No | 2026-03-17 |
 | [Google News RSS Feature](https://news.google.com/rss/search?q=site:YOURSITEHERE&hl=en-US&gl=US&ceid=US:en) | Create an RSS feed based on Googe News indexation of a website. Change in the URL "YOURSITEHRE" by the desired website. Detail [HERE](https://stackoverflow.com/questions/51537063/url-format-for-google-news-rss-feed) | No | 2026-03-16 |
