@@ -253,17 +253,18 @@ catalogs 200+ named techniques across direct and indirect injection paths and at
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. | No | 2026-03-17 |
-| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. | No | 2026-03-17 |
-| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. | Yes | 2026-03-17 |
-| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. | No | 2026-03-17 |
-| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. | No | 2026-03-17 |
-| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. | No | 2026-03-17 |
-| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. | No | 2026-03-17 |
-| [Phish report](https://phish.report/analysis/) | Automatically analyses phishing sites and identifies the best ways you can report it to speed up the takedown process. | No | 2026-03-17 |
-| [PhisHunt](https://phishunt.io/) | Up-to-date feed of active phishing and scam sites, along with details and quick updates to help you understand this threat. | No | 2026-03-17 |
-| [Phishtank](https://www.phishtank.com) | PhishTank is a collaborative clearing house for data and information about phishing on the Internet. | No | 2026-03-17 |
-| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. | No | 2026-03-17 |
+| [Crowdstrike Adversary Universe](https://www.crowdstrike.com/en-us/resources/adversary-universe-podcast/) | Welcome to the Adversary Universe podcast, where CrowdStrike
+reveals the threat actors behind the latest cyberattacks.. | No | 2026-08-13 |
+| [Darknet diaries](https://darknetdiaries.com/episode/) | Darknet Diaries produces audio stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security in order to educate and entertain both technical and non-technical audiences. | No | 2026-08-13 |
+| [ENISA on Air](https://open.spotify.com/show/033OMmjnOZMv4IYbWWseOi) | ENISA launches a podcast series to decrypt the latest cybersecurity developments and discuss issues that shape Europe's cybersecurity landscape. | No | 2026-08-13 |
+| [ESET Research Podcast](https://www.welivesecurity.com/en/podcasts/) | N/A | No | 2026-08-13 |
+| [Fortinet Cybersecurity Podast](https://www.fortinet.com/resources/podcast) | Stay up-to-date with the latest threat intelligence and product news from Fortinet experts. | No | 2026-08-13 |
+| [Group-IB Masked actor](https://www.group-ib.com/masked-actors/) | N/A | No | 2026-08-13 |
+| [Malicious life](https://malicious.life/) | Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians. | No | 2026-08-13 |
+| [Microsoft Threat Intelligence Podcast](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj) | Join us to hear stories from the Microsoft Threat Intelligence community as they navigate the ever-evolving threat landscape - uncovering APTs, cybercrime gangs, malware, vulnerabilities, and other weird and cool tools and tactics in the world of cyber threats. | No | 2026-08-13 |
+| [SecurityNow](https://twit.tv/shows/security-now) | Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must listen for security professionals every week. | No | 2026-08-13 |
+| [The Defender’s Advantage Podcast](https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X) | Learn about the latest threat and cybersecurity trends on The Defender’s Advantage Podcast! Hear from experts in the field as Host Luke McNamara, from Google Threat Intelligence Group, interviews analysts, researchers and other guests on the frontlines of the latest attacks.. | No | 2026-08-13 |
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
