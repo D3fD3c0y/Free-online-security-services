@@ -353,7 +353,7 @@ catalogs 200+ named techniques across direct and indirect injection paths and at
 | [The Cert graveyard](https://certgraveyard.org/) | The Cert Graveyard is a centralized place to document the abuse of code-signing certificates. | No | 2026-04-01 |
 | [ThreatConnect](https://app.threatconnect.com/login.xhtml) | Threat Intelligence Platform for companies to aggregate and act upon threat intelligence. | Yes | 2026-03-17 |
 | [ThreatLandscape Browser-based STIX 2.1 bundle visualizer](https://stix-viewer.threatlandscape.io/) | Llightweight STIX 2.1 viewer that runs entirely in the browser. No login, no install, just upload a bundle JSON and get an interactive relationship graph. | No | 2026-03-23 |
-| [ThreatNexus](https://www.threatnexus.online/) | Nation-State APT Intelligence | No | 2026-04-17 |
+| [ThreatNexus](https://www.threatnexus.online/) | Nation-State APT Intelligence | No | 2026-04-17 |  [Trukno.ai Attack Flow Generator](https://www.trukno.ai/dashboard/hunt) | TruKno Hunt is a threat‑hunting dashboard that turns URLs or PDFs into structured attack‑flow analyses. It helps CTI and IR teams quickly extract adversary behaviors and map them to detections. | No | 2026-08-13 |
 | [Webamon](https://intel.webamon.com/) | Advanced threat intelligence platform that scans, monitors, and indexes the web daily. easy to search across domains, IPs, and hashes | No | 2026-06-29 |
 <p>&nbsp;</p>
 <p>&nbsp;</p>
