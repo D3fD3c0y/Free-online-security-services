@@ -18,6 +18,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 - [Network](#Network)
 - [OSINT](#OSINT)
 - [Phishing](#Phishing)
+- [Podcast](#Podcast)
 - [Reconnaissance](#Reconnaissance)
 - [Signature (Sigma/Yara)](#Signature-SigmaYara)
 - [Social Media](#Social-Media)
