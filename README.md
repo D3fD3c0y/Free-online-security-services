@@ -264,7 +264,6 @@ catalogs 200+ named techniques across direct and indirect injection paths and at
 | [Microsoft Threat Intelligence Podcast](https://open.spotify.com/show/7kaJodHquryFw5YDw0BShj) | Join us to hear stories from the Microsoft Threat Intelligence community as they navigate the ever-evolving threat landscape - uncovering APTs, cybercrime gangs, malware, vulnerabilities, and other weird and cool tools and tactics in the world of cyber threats. | No | 2026-08-13 |
 | [SecurityNow](https://twit.tv/shows/security-now) | Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must listen for security professionals every week. | No | 2026-08-13 |
 | [The Defender’s Advantage Podcast](https://open.spotify.com/show/7CFsvR9lOLZiNoVDUltL9X) | Learn about the latest threat and cybersecurity trends on The Defender’s Advantage Podcast! Hear from experts in the field as Host Luke McNamara, from Google Threat Intelligence Group, interviews analysts, researchers and other guests on the frontlines of the latest attacks.. | No | 2026-08-13 |
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
