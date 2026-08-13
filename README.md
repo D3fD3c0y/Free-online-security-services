@@ -254,8 +254,7 @@ catalogs 200+ named techniques across direct and indirect injection paths and at
 
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
-| [Crowdstrike Adversary Universe](https://www.crowdstrike.com/en-us/resources/adversary-universe-podcast/) | Welcome to the Adversary Universe podcast, where CrowdStrike
-reveals the threat actors behind the latest cyberattacks.. | No | 2026-08-13 |
+| [Crowdstrike Adversary Universe](https://www.crowdstrike.com/en-us/resources/adversary-universe-podcast/) | Welcome to the Adversary Universe podcast, where CrowdStrike reveals the threat actors behind the latest cyberattacks. | No | 2026-08-13 |
 | [Darknet diaries](https://darknetdiaries.com/episode/) | Darknet Diaries produces audio stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security in order to educate and entertain both technical and non-technical audiences. | No | 2026-08-13 |
 | [ENISA on Air](https://open.spotify.com/show/033OMmjnOZMv4IYbWWseOi) | ENISA launches a podcast series to decrypt the latest cybersecurity developments and discuss issues that shape Europe's cybersecurity landscape. | No | 2026-08-13 |
 | [ESET Research Podcast](https://www.welivesecurity.com/en/podcasts/) | N/A | No | 2026-08-13 |
