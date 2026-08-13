@@ -249,6 +249,23 @@ catalogs 200+ named techniques across direct and indirect injection paths and at
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+## Podcast
+
+| Link | Description | Account required | Last date verified |
+|------|------------| ---------------- | ------------------ |
+| [CheckPhish](https://checkphish.ai/) | Free Scanner to detect phishing & fraudulent sites in real-time. | No | 2026-03-17 |
+| [Code Beautify](https://codebeautify.org/htmlviewer/) | HTML viewer. | No | 2026-03-17 |
+| [DNSTwister](https://dnstwister.report/) | The anti-phishing domain name search engine. | Yes | 2026-03-17 |
+| [Google G Suite Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | Headers parser. | No | 2026-03-17 |
+| [Is it Phishing ](https://isitphishing.org/) | Based on a heuristic technology coupled with machine learning, ISTIPHISHING is efficient against agile and small waves that contain shortened dynamics links. | No | 2026-03-17 |
+| [MXToolBox](https://mxtoolbox.com/EmailHeaders.aspx) | Headers parser. | No | 2026-03-17 |
+| [Microsoft Email headers Analyzer](https://testconnectivity.microsoft.com/?tabid=mha) | Headers parser. | No | 2026-03-17 |
+| [Phish report](https://phish.report/analysis/) | Automatically analyses phishing sites and identifies the best ways you can report it to speed up the takedown process. | No | 2026-03-17 |
+| [PhisHunt](https://phishunt.io/) | Up-to-date feed of active phishing and scam sites, along with details and quick updates to help you understand this threat. | No | 2026-03-17 |
+| [Phishtank](https://www.phishtank.com) | PhishTank is a collaborative clearing house for data and information about phishing on the Internet. | No | 2026-03-17 |
+| [UnPHP](https://www.unphp.net/) | Free service for analyzing obfuscated and malicious PHP code. | No | 2026-03-17 |
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Reconnaissance
 
@@ -418,6 +435,7 @@ catalogs 200+ named techniques across direct and indirect injection paths and at
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
 | [AWASP Top Ten](https://awasp.org/) | Web application vulnerabilities ranked by real-world exploitation frequency — not theoretical risk. Drawn from breach reports, CVE data, and incident response findings. | No | 2026-05-27 |
+| [CIRCL.LU Vulneralibity lookup](https://vulnerability.circl.lu/) | Correlate vulnerability advisories from national databases, CSAF providers and community feeds, link them to real-world sightings, and coordinate their disclosure — all in one place. | No | 2026-08-13 |
 | [CVE2EPSS](https://www.cve2epss.com/) | A simple web app which enables you to quickly and easily lookup EPSS scores for a CVE ID. | No | 2026-03-17 |
 | [CVEdetails.com](https://www.cvedetails.com/) | CVEdetails.com offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more. | No | 2026-03-17 |
 | [Exploit Database](https://www.exploit-db.com/) | Archive of Exploits, Shellcode and security papers. | No | 2026-03-17 |
