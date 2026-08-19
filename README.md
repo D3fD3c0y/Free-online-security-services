@@ -39,8 +39,9 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------| ---------------- | ------------------ |
 | [AIGregator](https://aigregator.com/) | Find the right AI tool, fast. Search, compare, and bookmark across every AI category. | No | 2026-06-02 |
 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements. | No | 2026-06-02 |
-|[Crowdstrike Taxonomy of Prompt Injection Methods](https://assets.crowdstrike.com/is/content/crowdstrikeinc/Prompt-Injection-Taxonomy-Posterpdf) | This taxonomy diagram include
-catalogs 200+ named techniques across direct and indirect injection paths and attacker prompting methods, provides a structured hierarchy showing the full risks of fast-moving GenAI threats, maps the rapidly evolving landscape of PI techniques | No | 2026-08-13| [PromptIntel](https://promptintel.novahunting.ai/) | A collaborative threat intel platform to identify patterns and artifacts indicating potential exploitation or misuse of Large Language Models. | No | 2026-06-02 |
+| [Crowdstrike Taxonomy of Prompt Injection Methods](https://assets.crowdstrike.com/is/content/crowdstrikeinc/Prompt-Injection-Taxonomy-Posterpdf) | This taxonomy diagram include
+catalogs 200+ named techniques across direct and indirect injection paths and attacker prompting methods, provides a structured hierarchy showing the full risks of fast-moving GenAI threats, maps the rapidly evolving landscape of PI techniques | No | 2026-08-13| 
+| [PromptIntel](https://promptintel.novahunting.ai/) | A collaborative threat intel platform to identify patterns and artifacts indicating potential exploitation or misuse of Large Language Models. | No | 2026-06-02 |
 
 
 <p>&nbsp;</p>
