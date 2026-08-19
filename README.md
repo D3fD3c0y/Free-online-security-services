@@ -39,9 +39,11 @@ This is a list of free online tools that can be used for Blue team analyst to in
 |------|------------| ---------------- | ------------------ |
 | [AIGregator](https://aigregator.com/) | Find the right AI tool, fast. Search, compare, and bookmark across every AI category. | No | 2026-06-02 |
 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements. | No | 2026-06-02 |
-| [Crowdstrike Taxonomy of Prompt Injection Methods](https://assets.crowdstrike.com/is/content/crowdstrikeinc/Prompt-Injection-Taxonomy-Posterpdf) | This taxonomy diagram include catalogs 200+ named techniques across direct and indirect injection paths and attacker prompting methods, provides a structured hierarchy showing the full risks of fast-moving GenAI threats, maps the rapidly evolving landscape of PI techniques | No | 2026-08-13| 
+| [Crowdstrike Taxonomy of Prompt Injection Methods](https://assets.crowdstrike.com/is/content/crowdstrikeinc/Prompt-Injection-Taxonomy-Posterpdf) | This taxonomy diagram include catalogs 200+ named techniques across direct and indirect injection paths and attacker prompting methods, provides a structured hierarchy showing the full risks of fast-moving GenAI threats, maps the rapidly evolving landscape of PI techniques | No | 2026-08-13 | 
+| [Feedly Claude intelligence requirements builder](https://github.com/feedly/skills/tree/main/skills/intelligence-requirements-builder) | We’ve created a free Claude skill that turns a vague stakeholder question (or questions) into structured intelligence requirements, with EEIs and decision-support identified. How to available [HERE](https://feedly.com/ti-essentials/posts/claude-skill-intelligence-requirements-builder). | No | 2026-08-13 |
+| [Feedly complete cti prompt library](https://github.com/feedly/skills/tree/main/prompts/feedly-complete-cti-prompt-library) | Every prompt published across four Feedly TI Essentials posts, gathered into one folder. Each prompt is a separate markdown file with its prompt text plus context on what it does, which report it came from, and the workflow it supports. | No | 2026-08-13 |
 | [PromptIntel](https://promptintel.novahunting.ai/) | A collaborative threat intel platform to identify patterns and artifacts indicating potential exploitation or misuse of Large Language Models. | No | 2026-06-02 |
-
+https://github.com/feedly/skills/tree/main/skills/intelligence-requirements-builder
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -226,6 +228,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | Link | Description | Account required | Last date verified |
 |------|------------| ---------------- | ------------------ |
 | [Epios](https://epieos.com/) | The ultimate OSINT tool for email and phone reverse lookup | No | 2026-06-17 |
+| [Grep.app](https://grep.app/) | Effortlessly search for code, files, and paths across a million GitHub repositories. | No | 2026-08-17 |
 | [Kronikier](https://kronikier.soxoj.com/) | Get historical contacts for a website from web.archive.org snapshots. Web version of https://github.com/soxoj/kronikier — consider installing the CLI for fuller results and faster scans. | No | 2026-06-02 |
 | [Max Intel — Free OSINT Tools](https://maxintel.org/) | Max Intel provides 100+ free OSINT tools for investigators, researchers, journalists, and cybersecurity professionals. Open-source intelligence (OSINT) is defined by U.S. Public Law 109-163 as intelligence produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience. Search people, emails, usernames, domains, IP addresses, and more — no registration or API keys required. | No | 2026-06-18 |
 
@@ -404,6 +407,7 @@ This is a list of free online tools that can be used for Blue team analyst to in
 | [AbuseIPDB](https://www.abuseipdb.com/) | Provide a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online. | No | 2026-03-17 |
 | [Censys](https://censys.io/login) | Uses Internet scan data to give organizations the visibility they need to defend against attacks and improve their overall security hygiene. | Yes | 2026-03-17 |
 | [Cisco Talos](https://www.talosintelligence.com/) | The Talos IP and Domain Reputation Center is the world’s most comprehensive real-time threat detection network. | No | 2026-03-17 |
+| [Cerast Intelligence](https://search.cerast-intelligence.com/) | Search observed domains for exposed paths and misconfigurations. | No | 2026-08-19 |
 | [DNSDumpster](https://dnsdumpster.com/) | Domain research tool that can discover hosts related to a domain. | No | 2026-03-17 |
 | [DNSlytics](https://dnslytics.com/) | Find out everything about a domain name, IP address or provider. | No | 2026-03-17 |
 | [SecurityTrails](https://securitytrails.com/) | World's largest repository of historical DNS data. | No | 2026-03-17 |
