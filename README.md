@@ -363,7 +363,7 @@ https://github.com/feedly/skills/tree/main/skills/intelligence-requirements-buil
 | [Group-IB  Malware Detonation Reports](https://detonation.group-ib.com/) | Group-IB's Malware Detonation Platform does much more than merely identify good and bad files. It reveals how attacks unfold in real time and pinpoints which processes are executed, which files are created or modified, and what network connections are established. | No | 2026-03-17 |
 | [Hunt.io Malware Families](https://hunt.io/malware-families) | Explore an extensive collection of the most popular malware families, including detailed descriptions, tactics, and insights into their connections with threat actors. | No | 2026-03-17 |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) | Threat Intelligence sharing platform enabling research on security threats, aggregation of intelligence and collaboration with peers. | No | 2026-03-17 |
-| [ICHI – Internet Cyber Health Index](https://ichi.global) | Free, source-transparent daily cyber-health barometer aggregating signals from 20+ named public sources (CISA KEV, Shodan, Censys, CVE/NVD, abuse.ch, CERT advisories). Provides an outside-in view of the Internet's current threat posture. RSS alerts feed at /api/alerts. | No | 2026-10-20 |
+| [ICHI – Internet Cyber Health Index](https://ichi.global/) | ichi.global is a free, publicly accessible, source-transparent cybersecurity daily barometer. It aggregates and synthesizes signals from 20+ named public sources — including CISA KEV, Shodan, Censys, CVE/NVD, abuse.ch, and CERT advisories — into a single outside-in daily view of the Internet's current threat posture. | No | 2026-10-28 |
 | [Intelligence X](https://intelx.io/) | Intelligence X is a search engine and data archive. | No | 2026-03-17 |
 | [LevelBlue](https://otx.alienvault.com/) | World's first truly Open Threat Intelligence Community | Yes | 2026-03-17 |
 | [Lighthouse feed finder](https://lighthouseapp.io/tools/feed-finder) | Search for a RSS Feed for a domain. | No | 2026-03-17 |
@@ -428,6 +428,7 @@ https://github.com/feedly/skills/tree/main/skills/intelligence-requirements-buil
 | [Robtex](https://www.robtex.com/) | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. | No | 2026-03-17 |
 | [SSL Blacklist](https://sslbl.abuse.ch/blacklist/) | List of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. | No | 2026-03-17 |
 | [ScreenshotMachine](https://www.screenshotmachine.com/) | Online tool that creates screenshots of websites in a safe way. | No | 2026-03-17 |
+| [ShieldLabs Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker) | Free current-browser diagnostic showing public IP, device identifiers, a risk score, and VPN, proxy, Tor and bot signals. | No | 2026-10-28 |
 | [Shodan](https://www.shodan.io/) | The world's first search engine for Internet-connected devices. | No | 2026-03-17 |
 | [ThreatMiner](https://www.threatminer.org/) | Free analysis from data collection and provide intelligence analysis. | No | 2026-03-17 |
 | [URLVoid](https://www.urlvoid.com/) | Analyze a website through multiple blacklist engines and online reputation tools. | No | 2026-03-17 |
