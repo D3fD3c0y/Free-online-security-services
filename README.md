@@ -428,6 +428,7 @@ https://github.com/feedly/skills/tree/main/skills/intelligence-requirements-buil
 | [Robtex](https://www.robtex.com/) | Gather public information about IP numbers, domain names, hostnames. Autonomous systems, routes, etc. | No | 2026-03-17 |
 | [SSL Blacklist](https://sslbl.abuse.ch/blacklist/) | List of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. | No | 2026-03-17 |
 | [ScreenshotMachine](https://www.screenshotmachine.com/) | Online tool that creates screenshots of websites in a safe way. | No | 2026-03-17 |
+| [ShieldLabs Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker) | Free current-browser diagnostic showing public IP, device identifiers, a risk score, and VPN, proxy, Tor and bot signals. | No | 2026-10-28 |
 | [Shodan](https://www.shodan.io/) | The world's first search engine for Internet-connected devices. | No | 2026-03-17 |
 | [ThreatMiner](https://www.threatminer.org/) | Free analysis from data collection and provide intelligence analysis. | No | 2026-03-17 |
 | [URLVoid](https://www.urlvoid.com/) | Analyze a website through multiple blacklist engines and online reputation tools. | No | 2026-03-17 |
